@@ -1,12 +1,16 @@
 import torch 
 import sys
+import os
+from dotenv import load_dotenv
 
-VJEPA_2_HUB_PATH = '/home/d1pr/.cache/torch/hub/facebookresearch_vjepa2_main'
-WEIGHTS_PATH = '/home/d1pr/projects/mangajepa/data/vitl.pt'
+load_dotenv()
 
+VJEPA2_HUB_PATH = os.getenv('VJEPA2_HUB_PATH')
+WEIGHTS_PATH = os.getenv('VJEPA2_WEIGHTS')
 
-sys.path.insert(0,VJEPA_2_HUB_PATH)
+sys.path.insert(0, VJEPA2_HUB_PATH)
 from src.models.vision_transformer import vit_large
+
 
 def load_encoder(device='cuda'):
     model = vit_large(

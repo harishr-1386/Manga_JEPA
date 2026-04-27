@@ -6,13 +6,20 @@ from PIL import Image
 from torchvision import transforms
 from tqdm import tqdm
 import sys
+import os
+from dotenv import load_dotenv
 
-sys.path.insert(0, '/home/d1pr/.cache/torch/hub/facebookresearch_vjepa2_main')
+load_dotenv()
+
+VJEPA2_HUB_PATH = os.getenv('VJEPA2_HUB_PATH')
+WEIGHTS_PATH = os.getenv('VJEPA2_WEIGHTS')
+PANELS_DIR = Path(os.getenv('PANELS_DIR'))
+EMBEDDINGS_DIR = Path(os.getenv('EMBEDDINGS_DIR'))
+
+sys.path.insert(0, VJEPA2_HUB_PATH)
 from src.models.vision_transformer import vit_large
 
-WEIGHTS_PATH = '/home/d1pr/projects/mangajepa/data/vitl.pt'
-PANELS_DIR = Path('/home/d1pr/projects/mangajepa/data/panels')
-EMBEDDINGS_DIR = Path('/home/d1pr/projects/mangajepa/data/embeddings')
+
 EMBEDDINGS_DIR.mkdir(parents=True, exist_ok=True)
 
 # V-JEPA 2 expects 8 frames at 256x256

@@ -6,9 +6,14 @@ from PIL import Image
 import torch
 from ultralytics import YOLO
 import shutil
+from dotenv import load_dotenv
 
-PANEL_DETECTOR_PATH = '/home/d1pr/projects/mangajepa/data/models/manga_panel_detector_fp32.pt'
-OUTPUT_DIR = Path('/home/d1pr/projects/mangajepa/data/panels')
+load_dotenv()
+
+PANEL_DETECTOR_PATH = os.getenv('PANEL_DETECTOR')
+OUTPUT_DIR = Path(os.getenv('PANELS_DIR'))
+
+
 
 
 def load_detector():
