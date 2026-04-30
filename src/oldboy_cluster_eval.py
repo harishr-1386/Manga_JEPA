@@ -14,7 +14,8 @@ load_dotenv()
 EMBEDDINGS_DIR = Path(os.getenv('EMBEDDINGS_DIR'))
 PANELS_DIR     = Path(os.getenv('PANELS_DIR'))
 MANGA_NAME     = 'old_boy_vol01'
-REGISTRY_PATH  = Path(f'data/labels/{MANGA_NAME}_character_registry.json')
+#REGISTRY_PATH  = Path(f'data/labels/{MANGA_NAME}_character_registry.json')
+REGISTRY_PATH = Path('data/labels/all_volumes_character_labels.json')
 OUTPUT_DIR     = Path('data/oldboy_cluster_eval')
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -83,40 +84,61 @@ def per_character_recall(labels_true, labels_pred, char_to_int):
 
 
 def load_labeled_embeddings():
-    with open(REGISTRY_PATH) as f:
-        registry = json.load(f)
+    # Use full 500-panel multi-volume labels
+    labels_path = Path('data/labels/all_volumes_character_labels.json')
+    with open(labels_path) as f:
+        all_labels = json.load(f)
 
-    # Load embeddings and metadata
-    clip_emb  = np.load(EMBEDDINGS_DIR / MANGA_NAME / 'clip_embeddings.npy')
-    vjepa_emb = np.load(EMBEDDINGS_DIR / MANGA_NAME / 'embeddings.npy')
-    with open(EMBEDDINGS_DIR / MANGA_NAME / 'metadata.json') as f:
-        metadata = json.load(f)
+    CHARACTERS_VALID = ['Shinichi Goto', 'Takaaki Kakinuma', 'Eri']
+    char_to_int      = {c: i for i, c in enumerate(CHARACTERS_VALID)}
 
-    panel_ids       = [m['panel_id'] for m in metadata]
-    panel_id_to_idx = {pid: i for i, pid in enumerate(panel_ids)}
+    # Load embeddings for all volumes
+    clip_vecs   = []
+    vjepa_vecs  = []
+    labels_true = []
+    panel_ids   = []
 
-    # Filter to manually labeled panels only
-    valid_chars = [c for c in CHARACTERS if any(v == c for v in registry.values())]
-    char_to_int = {c: i for i, c in enumerate(valid_chars)}
-
-    labeled_indices = []
-    labels_true     = []
-    panel_id_list   = []
-
-    for panel_id, char in registry.items():
+    for ref, char in all_labels.items():
         if char not in char_to_int:
             continue
-        if panel_id not in panel_id_to_idx:
+        if ':' not in ref:
             continue
-        labeled_indices.append(panel_id_to_idx[panel_id])
+        manga_name, panel_id = ref.split(':', 1)
+
+        clip_path  = EMBEDDINGS_DIR / manga_name / 'clip_embeddings.npy'
+        vjepa_path = EMBEDDINGS_DIR / manga_name / 'embeddings.npy'
+        meta_path  = EMBEDDINGS_DIR / manga_name / 'metadata.json'
+
+        if not clip_path.exists():
+            continue
+
+        # Load on demand and cache
+        if not hasattr(load_labeled_embeddings, '_cache'):
+            load_labeled_embeddings._cache = {}
+        if manga_name not in load_labeled_embeddings._cache:
+            clip_emb  = np.load(clip_path)
+            vjepa_emb = np.load(vjepa_path)
+            with open(meta_path) as f:
+                meta = json.load(f)
+            idx_map   = {m['panel_id']: i for i, m in enumerate(meta)}
+            load_labeled_embeddings._cache[manga_name] = (clip_emb, vjepa_emb, idx_map)
+
+        clip_emb, vjepa_emb, idx_map = load_labeled_embeddings._cache[manga_name]
+
+        if panel_id not in idx_map:
+            continue
+
+        idx = idx_map[panel_id]
+        clip_vecs.append(clip_emb[idx])
+        vjepa_vecs.append(vjepa_emb[idx])
         labels_true.append(char_to_int[char])
-        panel_id_list.append(panel_id)
+        panel_ids.append(ref)
 
     labels_true = np.array(labels_true)
-    clip_labeled  = clip_emb[labeled_indices]
-    vjepa_labeled = vjepa_emb[labeled_indices]
+    print(f'Labeled panels loaded: {len(panel_ids)}')
+    print(f'Distribution: {dict(Counter(labels_true))} -> {char_to_int}')
 
-    return clip_labeled, vjepa_labeled, labels_true, char_to_int, panel_id_list, metadata
+    return np.array(clip_vecs), np.array(vjepa_vecs), labels_true, char_to_int, panel_ids, None
 
 
 def run_clustering(embeddings, labels_true, char_to_int, encoder_name):
