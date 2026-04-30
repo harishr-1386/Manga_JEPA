@@ -162,6 +162,10 @@ def run_vjepa_action_detection(
     seq_embeddings, seq_metadata = build_sequence_embeddings(
         manga_name, model, device
     )
+    np.save(OUTPUT_DIR / f'{manga_name}_vjepa_seq_embeddings.npy', seq_embeddings)
+    with open(OUTPUT_DIR / f'{manga_name}_vjepa_seq_metadata.json', 'w') as f:
+        json.dump(seq_metadata, f)
+    print(f'Sequence embeddings saved: {seq_embeddings.shape}')
 
     # Classify each sequence
     results = {}
