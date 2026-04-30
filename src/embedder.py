@@ -8,6 +8,8 @@ from tqdm import tqdm
 import sys
 import os
 from dotenv import load_dotenv
+import types
+
 
 load_dotenv()
 
@@ -16,8 +18,19 @@ WEIGHTS_PATH = os.getenv('VJEPA2_WEIGHTS')
 PANELS_DIR = Path(os.getenv('PANELS_DIR'))
 EMBEDDINGS_DIR = Path(os.getenv('EMBEDDINGS_DIR'))
 
-sys.path.insert(0, VJEPA2_HUB_PATH)
+# Register vjepa2 src 
+_vjepa_src          = types.ModuleType('src')
+_vjepa_src.__path__ = [os.path.join(VJEPA2_HUB_PATH, 'src')]
+_vjepa_src.__package__ = 'src'
+sys.modules['src']  = _vjepa_src
+
+if VJEPA2_HUB_PATH not in sys.path:
+    sys.path.insert(0, VJEPA2_HUB_PATH)
+
 from src.models.vision_transformer import vit_large
+
+#sys.path.insert(0, VJEPA2_HUB_PATH)
+#from src.models.vision_transformer import vit_large
 
 
 EMBEDDINGS_DIR.mkdir(parents=True, exist_ok=True)

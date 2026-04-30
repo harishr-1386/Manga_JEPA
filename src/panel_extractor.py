@@ -87,6 +87,12 @@ def detect_and_crop_panels(
         #     })
         for panel_idx, i in enumerate(sorted_indices):
             x1, y1, x2, y2 = map(int, xyxy[i])
+            # adding in a filter to skip text only panels 
+            if boxes.cls is not None:
+                cls = int(boxes.cls[i].item())
+                if cls == 1:
+                    continue
+                
             # Skip tiny detections — noise/text artifacts
             if (x2 - x1) < 100 or (y2 - y1) < 100:
                 continue
