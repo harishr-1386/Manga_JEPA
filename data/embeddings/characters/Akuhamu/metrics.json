@@ -1,0 +1,19 @@
+{
+  "title": "Akuhamu",
+  "n_faces": 1199,
+  "n_true_chars": 19,
+  "clip": {
+    "n_clusters": 2,
+    "n_noise": 45,
+    "purity": 0.3328,
+    "ari": 0.0022,
+    "nmi": 0.0078
+  },
+  "vjepa": {
+    "n_clusters": 3,
+    "n_noise": 4,
+    "purity": 0.3356,
+    "ari": 0.0036,
+    "nmi": 0.0168
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "ARMS",
+  "n_faces": 327,
+  "n_true_chars": 20,
+  "clip": {
+    "n_clusters": 2,
+    "n_noise": 23,
+    "purity": 0.1349,
+    "ari": 0.0016,
+    "nmi": 0.0283
+  },
+  "vjepa": {
+    "n_clusters": 3,
+    "n_noise": 24,
+    "purity": 0.1287,
+    "ari": 0.0004,
+    "nmi": 0.0283
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "AisazuNihaIrarenai",
+  "n_faces": 1138,
+  "n_true_chars": 17,
+  "clip": {
+    "n_clusters": 5,
+    "n_noise": 157,
+    "purity": 0.4536,
+    "ari": 0.0099,
+    "nmi": 0.0343
+  },
+  "vjepa": {
+    "n_clusters": 4,
+    "n_noise": 34,
+    "purity": 0.4348,
+    "ari": 0.0068,
+    "nmi": 0.021
+  }
+}
