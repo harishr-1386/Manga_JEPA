@@ -398,7 +398,7 @@ def build_app():
             with gr.Row():
                 model_choice = gr.Radio(
                     choices=['Ollama (local)', 'Gemini Flash'],
-                    value='Ollama (local)',
+                    value='Gemini Flash',
                     label='LLM Backend',
                 )
                 api_key = gr.Textbox(
