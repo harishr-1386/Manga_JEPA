@@ -1,0 +1,6008 @@
+{
+  "Shinichi Goto": [
+    {
+      "panel": 8,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0156_panel0008",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0156_panel0008.jpg",
+      "page": 156,
+      "similarity": 0.9917,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "page": 40,
+      "panel": 7,
+      "panel_id": "page0040_panel0007",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0040_panel0007.jpg",
+      "similarity": 0.9906,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "page": 34,
+      "panel_id": "page0034_panel0007",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0034_panel0007.jpg",
+      "panel": 7,
+      "similarity": 0.9905,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 3,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0021_panel0003.jpg",
+      "page": 21,
+      "panel_id": "page0021_panel0003",
+      "similarity": 0.9904,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0029_panel0001",
+      "page": 29,
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0029_panel0001.jpg",
+      "manga": "old_boy_vol03",
+      "similarity": 0.9903,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 6,
+      "panel_id": "page0196_panel0006",
+      "page": 196,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0196_panel0006.jpg",
+      "manga": "old_boy_vol01",
+      "similarity": 0.9901,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 5,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0005_panel0007.jpg",
+      "panel": 7,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0005_panel0007",
+      "similarity": 0.99,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel": 2,
+      "page": 119,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0119_panel0002.jpg",
+      "panel_id": "page0119_panel0002",
+      "similarity": 0.9895,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 1,
+      "panel_id": "page0083_panel0001",
+      "manga": "old_boy_vol02",
+      "page": 83,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0083_panel0001.jpg",
+      "similarity": 0.9885,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0197_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0197_panel0003.jpg",
+      "panel": 3,
+      "page": 197,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9885,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0049_panel0001",
+      "manga": "old_boy_vol02",
+      "panel": 1,
+      "page": 49,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0049_panel0001.jpg",
+      "similarity": 0.9884,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 6,
+      "panel_id": "page0012_panel0006",
+      "page": 12,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0012_panel0006.jpg",
+      "manga": "old_boy_vol02",
+      "similarity": 0.9884,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel_id": "page0079_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0079_panel0001.jpg",
+      "page": 79,
+      "panel": 1,
+      "similarity": 0.9883,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0152_panel0012.jpg",
+      "page": 152,
+      "manga": "old_boy_vol02",
+      "panel": 12,
+      "panel_id": "page0152_panel0012",
+      "similarity": 0.9883,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0031_panel0002",
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0031_panel0002.jpg",
+      "manga": "old_boy_vol01",
+      "page": 31,
+      "similarity": 0.9882,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0201_panel0007",
+      "manga": "old_boy_vol01",
+      "panel": 7,
+      "page": 201,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0201_panel0007.jpg",
+      "similarity": 0.9882,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0202_panel0000.jpg",
+      "page": 202,
+      "manga": "old_boy_vol02",
+      "panel": 0,
+      "panel_id": "page0202_panel0000",
+      "similarity": 0.988,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0185_panel0001",
+      "manga": "old_boy_vol03",
+      "page": 185,
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0185_panel0001.jpg",
+      "similarity": 0.9878,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0065_panel0010.jpg",
+      "page": 65,
+      "panel": 10,
+      "panel_id": "page0065_panel0010",
+      "manga": "old_boy_vol02",
+      "similarity": 0.9876,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0032_panel0010.jpg",
+      "manga": "old_boy_vol01",
+      "page": 32,
+      "panel_id": "page0032_panel0010",
+      "panel": 10,
+      "similarity": 0.9875,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0068_panel0002.jpg",
+      "manga": "old_boy_vol01",
+      "page": 68,
+      "panel_id": "page0068_panel0002",
+      "similarity": 0.9874,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 10,
+      "panel_id": "page0091_panel0010",
+      "manga": "old_boy_vol02",
+      "page": 91,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0091_panel0010.jpg",
+      "similarity": 0.9874,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0204_panel0002.jpg",
+      "manga": "old_boy_vol01",
+      "page": 204,
+      "panel_id": "page0204_panel0002",
+      "similarity": 0.9871,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 118,
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0118_panel0002.jpg",
+      "manga": "old_boy_vol02",
+      "panel_id": "page0118_panel0002",
+      "similarity": 0.9871,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 6,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0076_panel0006.jpg",
+      "page": 76,
+      "panel_id": "page0076_panel0006",
+      "similarity": 0.9869,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0061_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0061_panel0001.jpg",
+      "page": 61,
+      "manga": "old_boy_vol03",
+      "panel": 1,
+      "similarity": 0.9869,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0127_panel0002.jpg",
+      "panel_id": "page0127_panel0002",
+      "page": 127,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9869,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "page": 151,
+      "panel_id": "page0151_panel0000",
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0151_panel0000.jpg",
+      "similarity": 0.9866,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0016_panel0004.jpg",
+      "manga": "old_boy_vol01",
+      "panel_id": "page0016_panel0004",
+      "panel": 4,
+      "page": 16,
+      "similarity": 0.9864,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 8,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0122_panel0008.jpg",
+      "panel_id": "page0122_panel0008",
+      "manga": "old_boy_vol03",
+      "page": 122,
+      "similarity": 0.9863,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 9,
+      "page": 192,
+      "panel_id": "page0192_panel0009",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0192_panel0009.jpg",
+      "similarity": 0.9861,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0048_panel0003.jpg",
+      "manga": "old_boy_vol02",
+      "page": 48,
+      "panel": 3,
+      "panel_id": "page0048_panel0003",
+      "similarity": 0.9861,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 3,
+      "panel_id": "page0088_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0088_panel0003.jpg",
+      "page": 88,
+      "similarity": 0.9859,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0116_panel0000",
+      "page": 116,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0116_panel0000.jpg",
+      "panel": 0,
+      "similarity": 0.9859,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0041_panel0000.jpg",
+      "panel_id": "page0041_panel0000",
+      "manga": "old_boy_vol03",
+      "page": 41,
+      "panel": 0,
+      "similarity": 0.9857,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "page": 160,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0160_panel0005.jpg",
+      "panel_id": "page0160_panel0005",
+      "panel": 5,
+      "similarity": 0.9855,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0085_panel0007",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0085_panel0007.jpg",
+      "page": 85,
+      "panel": 7,
+      "similarity": 0.9855,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 8,
+      "panel_id": "page0168_panel0008",
+      "manga": "old_boy_vol02",
+      "page": 168,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0168_panel0008.jpg",
+      "similarity": 0.9854,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0007_panel0007.jpg",
+      "panel_id": "page0007_panel0007",
+      "page": 7,
+      "manga": "old_boy_vol02",
+      "panel": 7,
+      "similarity": 0.9853,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 12,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0091_panel0012.jpg",
+      "page": 91,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0091_panel0012",
+      "similarity": 0.9852,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 1,
+      "panel_id": "page0195_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0195_panel0001.jpg",
+      "page": 195,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9852,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0125_panel0005.jpg",
+      "panel": 5,
+      "page": 125,
+      "panel_id": "page0125_panel0005",
+      "similarity": 0.9851,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 6,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0012_panel0006.jpg",
+      "page": 12,
+      "panel_id": "page0012_panel0006",
+      "similarity": 0.985,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0197_panel0001.jpg",
+      "manga": "old_boy_vol03",
+      "page": 197,
+      "panel_id": "page0197_panel0001",
+      "similarity": 0.985,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 2,
+      "page": 174,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0174_panel0002.jpg",
+      "manga": "old_boy_vol02",
+      "panel_id": "page0174_panel0002",
+      "similarity": 0.9847,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0119_panel0007.jpg",
+      "page": 119,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0119_panel0007",
+      "panel": 7,
+      "similarity": 0.9846,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0087_panel0001",
+      "page": 87,
+      "manga": "old_boy_vol02",
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0087_panel0001.jpg",
+      "similarity": 0.9845,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 69,
+      "panel_id": "page0069_panel0000",
+      "manga": "old_boy_vol03",
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0069_panel0000.jpg",
+      "similarity": 0.9845,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0110_panel0005",
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0110_panel0005.jpg",
+      "page": 110,
+      "panel": 5,
+      "similarity": 0.9845,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 5,
+      "panel_id": "page0192_panel0005",
+      "page": 192,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0192_panel0005.jpg",
+      "similarity": 0.9844,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0112_panel0002",
+      "page": 112,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0112_panel0002.jpg",
+      "panel": 2,
+      "similarity": 0.9844,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 3,
+      "panel_id": "page0042_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0042_panel0003.jpg",
+      "manga": "old_boy_vol01",
+      "page": 42,
+      "similarity": 0.9842,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 5,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0049_panel0005.jpg",
+      "panel_id": "page0049_panel0005",
+      "page": 49,
+      "similarity": 0.9842,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0157_panel0005",
+      "panel": 5,
+      "page": 157,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0157_panel0005.jpg",
+      "similarity": 0.9842,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0127_panel0000.jpg",
+      "manga": "old_boy_vol03",
+      "page": 127,
+      "panel": 0,
+      "panel_id": "page0127_panel0000",
+      "similarity": 0.9842,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 127,
+      "panel_id": "page0127_panel0007",
+      "manga": "old_boy_vol03",
+      "panel": 7,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0127_panel0007.jpg",
+      "similarity": 0.9841,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0047_panel0002.jpg",
+      "manga": "old_boy_vol03",
+      "panel_id": "page0047_panel0002",
+      "page": 47,
+      "panel": 2,
+      "similarity": 0.9841,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "page": 99,
+      "panel_id": "page0099_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0099_panel0003.jpg",
+      "panel": 3,
+      "similarity": 0.984,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 2,
+      "panel_id": "page0035_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0035_panel0002.jpg",
+      "manga": "old_boy_vol01",
+      "page": 35,
+      "similarity": 0.9839,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 26,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0026_panel0005",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0026_panel0005.jpg",
+      "panel": 5,
+      "similarity": 0.9839,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0111_panel0007.jpg",
+      "panel": 7,
+      "panel_id": "page0111_panel0007",
+      "manga": "old_boy_vol03",
+      "page": 111,
+      "similarity": 0.9839,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 6,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0145_panel0006.jpg",
+      "panel_id": "page0145_panel0006",
+      "page": 145,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9838,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0065_panel0007",
+      "page": 65,
+      "panel": 7,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0065_panel0007.jpg",
+      "similarity": 0.9838,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 3,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0184_panel0003.jpg",
+      "panel_id": "page0184_panel0003",
+      "page": 184,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9838,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 5,
+      "page": 166,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0166_panel0005",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0166_panel0005.jpg",
+      "similarity": 0.9837,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 188,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0188_panel0001.jpg",
+      "panel_id": "page0188_panel0001",
+      "manga": "old_boy_vol03",
+      "panel": 1,
+      "similarity": 0.9837,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0095_panel0011.jpg",
+      "panel": 11,
+      "page": 95,
+      "panel_id": "page0095_panel0011",
+      "similarity": 0.9836,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 0,
+      "page": 80,
+      "panel_id": "page0080_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0080_panel0000.jpg",
+      "manga": "old_boy_vol02",
+      "similarity": 0.9836,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 3,
+      "manga": "old_boy_vol03",
+      "page": 78,
+      "panel_id": "page0078_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0078_panel0003.jpg",
+      "similarity": 0.9836,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 111,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0111_panel0015",
+      "panel": 15,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0111_panel0015.jpg",
+      "similarity": 0.9835,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0188_panel0002.jpg",
+      "manga": "old_boy_vol01",
+      "panel_id": "page0188_panel0002",
+      "page": 188,
+      "panel": 2,
+      "similarity": 0.9835,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 10,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0010_panel0001.jpg",
+      "panel": 1,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0010_panel0001",
+      "similarity": 0.9835,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0074_panel0007.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 7,
+      "panel_id": "page0074_panel0007",
+      "page": 74,
+      "similarity": 0.9833,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0040_panel0003.jpg",
+      "manga": "old_boy_vol01",
+      "panel_id": "page0040_panel0003",
+      "page": 40,
+      "panel": 3,
+      "similarity": 0.9833,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0050_panel0007.jpg",
+      "page": 50,
+      "panel": 7,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0050_panel0007",
+      "similarity": 0.9833,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0107_panel0001.jpg",
+      "page": 107,
+      "panel": 1,
+      "panel_id": "page0107_panel0001",
+      "manga": "old_boy_vol03",
+      "similarity": 0.9833,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0049_panel0011.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 11,
+      "panel_id": "page0049_panel0011",
+      "page": 49,
+      "similarity": 0.9832,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0169_panel0010.jpg",
+      "panel": 10,
+      "manga": "old_boy_vol01",
+      "page": 169,
+      "panel_id": "page0169_panel0010",
+      "similarity": 0.9832,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 46,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0046_panel0000.jpg",
+      "manga": "old_boy_vol02",
+      "panel": 0,
+      "panel_id": "page0046_panel0000",
+      "similarity": 0.9832,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0107_panel0003.jpg",
+      "manga": "old_boy_vol03",
+      "page": 107,
+      "panel": 3,
+      "panel_id": "page0107_panel0003",
+      "similarity": 0.9832,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0162_panel0002",
+      "page": 162,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0162_panel0002.jpg",
+      "panel": 2,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9832,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0039_panel0008.jpg",
+      "manga": "old_boy_vol02",
+      "page": 39,
+      "panel": 8,
+      "panel_id": "page0039_panel0008",
+      "similarity": 0.9831,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 112,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0112_panel0012.jpg",
+      "panel_id": "page0112_panel0012",
+      "manga": "old_boy_vol02",
+      "panel": 12,
+      "similarity": 0.9831,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 1,
+      "panel_id": "page0131_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0131_panel0001.jpg",
+      "manga": "old_boy_vol03",
+      "page": 131,
+      "similarity": 0.9831,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "page": 48,
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0048_panel0002.jpg",
+      "panel_id": "page0048_panel0002",
+      "similarity": 0.983,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel_id": "page0034_panel0000",
+      "panel": 0,
+      "page": 34,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0034_panel0000.jpg",
+      "similarity": 0.983,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 1,
+      "panel_id": "page0130_panel0001",
+      "manga": "old_boy_vol02",
+      "page": 130,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0130_panel0001.jpg",
+      "similarity": 0.983,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0097_panel0006.jpg",
+      "panel_id": "page0097_panel0006",
+      "manga": "old_boy_vol01",
+      "page": 97,
+      "panel": 6,
+      "similarity": 0.9829,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 171,
+      "panel": 10,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0171_panel0010",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0171_panel0010.jpg",
+      "similarity": 0.9829,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 115,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0115_panel0001.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 1,
+      "panel_id": "page0115_panel0001",
+      "similarity": 0.9828,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 23,
+      "panel": 4,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0023_panel0004.jpg",
+      "panel_id": "page0023_panel0004",
+      "similarity": 0.9828,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 12,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0012_panel0000.jpg",
+      "panel": 0,
+      "panel_id": "page0012_panel0000",
+      "similarity": 0.9827,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 49,
+      "panel_id": "page0049_panel0008",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0049_panel0008.jpg",
+      "panel": 8,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9827,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 3,
+      "page": 46,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0046_panel0003.jpg",
+      "panel_id": "page0046_panel0003",
+      "similarity": 0.9826,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 9,
+      "panel": 13,
+      "panel_id": "page0009_panel0013",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0009_panel0013.jpg",
+      "similarity": 0.9826,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0143_panel0018",
+      "manga": "old_boy_vol03",
+      "page": 143,
+      "panel": 18,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0143_panel0018.jpg",
+      "similarity": 0.9826,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0031_panel0009.jpg",
+      "page": 31,
+      "panel_id": "page0031_panel0009",
+      "manga": "old_boy_vol01",
+      "panel": 9,
+      "similarity": 0.9825,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0197_panel0002",
+      "manga": "old_boy_vol02",
+      "panel": 2,
+      "page": 197,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0197_panel0002.jpg",
+      "similarity": 0.9825,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 0,
+      "page": 50,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0050_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0050_panel0000.jpg",
+      "similarity": 0.9825,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 3,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0109_panel0003.jpg",
+      "panel_id": "page0109_panel0003",
+      "page": 109,
+      "manga": "old_boy_vol01",
+      "similarity": 0.9824,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 3,
+      "page": 14,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0014_panel0003.jpg",
+      "panel_id": "page0014_panel0003",
+      "manga": "old_boy_vol01",
+      "similarity": 0.9824,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0133_panel0001.jpg",
+      "page": 133,
+      "panel": 1,
+      "panel_id": "page0133_panel0001",
+      "manga": "old_boy_vol01",
+      "similarity": 0.9824,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 128,
+      "panel": 4,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0128_panel0004.jpg",
+      "panel_id": "page0128_panel0004",
+      "manga": "old_boy_vol03",
+      "similarity": 0.9824,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0027_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0027_panel0001.jpg",
+      "page": 27,
+      "panel": 1,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9824,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0074_panel0000.jpg",
+      "panel_id": "page0074_panel0000",
+      "page": 74,
+      "panel": 0,
+      "similarity": 0.9823,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0124_panel0006.jpg",
+      "panel": 6,
+      "manga": "old_boy_vol01",
+      "page": 124,
+      "panel_id": "page0124_panel0006",
+      "similarity": 0.9823,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 3,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0086_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0086_panel0003.jpg",
+      "page": 86,
+      "similarity": 0.9823,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 5,
+      "manga": "old_boy_vol02",
+      "page": 149,
+      "panel_id": "page0149_panel0005",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0149_panel0005.jpg",
+      "similarity": 0.9822,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel_id": "page0064_panel0002",
+      "page": 64,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0064_panel0002.jpg",
+      "panel": 2,
+      "similarity": 0.9821,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0168_panel0001.jpg",
+      "manga": "old_boy_vol02",
+      "page": 168,
+      "panel_id": "page0168_panel0001",
+      "similarity": 0.982,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0058_panel0005.jpg",
+      "panel": 5,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0058_panel0005",
+      "page": 58,
+      "similarity": 0.9819,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "page": 197,
+      "panel_id": "page0197_panel0007",
+      "panel": 7,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0197_panel0007.jpg",
+      "similarity": 0.9819,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0145_panel0000.jpg",
+      "page": 145,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0145_panel0000",
+      "panel": 0,
+      "similarity": 0.9819,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "page": 151,
+      "panel": 4,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0151_panel0004.jpg",
+      "panel_id": "page0151_panel0004",
+      "similarity": 0.9819,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0013_panel0001",
+      "panel": 1,
+      "manga": "old_boy_vol02",
+      "page": 13,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0013_panel0001.jpg",
+      "similarity": 0.9818,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0090_panel0002.jpg",
+      "panel_id": "page0090_panel0002",
+      "page": 90,
+      "panel": 2,
+      "similarity": 0.9818,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0087_panel0005",
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0087_panel0005.jpg",
+      "page": 87,
+      "panel": 5,
+      "similarity": 0.9818,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0019_panel0004",
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0019_panel0004.jpg",
+      "panel": 4,
+      "page": 19,
+      "similarity": 0.9817,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0197_panel0016.jpg",
+      "manga": "old_boy_vol02",
+      "panel_id": "page0197_panel0016",
+      "page": 197,
+      "panel": 16,
+      "similarity": 0.9817,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel": 6,
+      "panel_id": "page0110_panel0006",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0110_panel0006.jpg",
+      "page": 110,
+      "similarity": 0.9817,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 48,
+      "panel": 9,
+      "panel_id": "page0048_panel0009",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0048_panel0009.jpg",
+      "similarity": 0.9816,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 5,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0068_panel0005.jpg",
+      "manga": "old_boy_vol03",
+      "page": 68,
+      "panel_id": "page0068_panel0005",
+      "similarity": 0.9816,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0096_panel0005",
+      "manga": "old_boy_vol03",
+      "panel": 5,
+      "page": 96,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0096_panel0005.jpg",
+      "similarity": 0.9816,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0067_panel0007",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0067_panel0007.jpg",
+      "manga": "old_boy_vol03",
+      "page": 67,
+      "panel": 7,
+      "similarity": 0.9816,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 9,
+      "page": 191,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0191_panel0009.jpg",
+      "panel_id": "page0191_panel0009",
+      "similarity": 0.9815,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0145_panel0016",
+      "panel": 16,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0145_panel0016.jpg",
+      "page": 145,
+      "similarity": 0.9815,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "page": 45,
+      "panel": 9,
+      "panel_id": "page0045_panel0009",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0045_panel0009.jpg",
+      "similarity": 0.9814,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0145_panel0011.jpg",
+      "manga": "old_boy_vol03",
+      "panel": 11,
+      "page": 145,
+      "panel_id": "page0145_panel0011",
+      "similarity": 0.9814,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 1,
+      "panel_id": "page0157_panel0001",
+      "page": 157,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0157_panel0001.jpg",
+      "manga": "old_boy_vol03",
+      "similarity": 0.9814,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 4,
+      "page": 14,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0014_panel0004.jpg",
+      "panel_id": "page0014_panel0004",
+      "similarity": 0.9813,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 92,
+      "panel": 3,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0092_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0092_panel0003.jpg",
+      "similarity": 0.9813,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0160_panel0000.jpg",
+      "page": 160,
+      "panel": 0,
+      "panel_id": "page0160_panel0000",
+      "similarity": 0.9813,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0066_panel0000",
+      "page": 66,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0066_panel0000.jpg",
+      "panel": 0,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9813,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 1,
+      "page": 182,
+      "panel_id": "page0182_panel0001",
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0182_panel0001.jpg",
+      "similarity": 0.9813,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 5,
+      "page": 56,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0056_panel0005.jpg",
+      "panel_id": "page0056_panel0005",
+      "manga": "old_boy_vol01",
+      "similarity": 0.9812,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0186_panel0002.jpg",
+      "panel": 2,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0186_panel0002",
+      "page": 186,
+      "similarity": 0.9812,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 43,
+      "panel_id": "page0043_panel0001",
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0043_panel0001.jpg",
+      "manga": "old_boy_vol02",
+      "similarity": 0.9812,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 9,
+      "page": 199,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0199_panel0009.jpg",
+      "panel_id": "page0199_panel0009",
+      "manga": "old_boy_vol01",
+      "similarity": 0.9811,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0121_panel0008.jpg",
+      "manga": "old_boy_vol01",
+      "panel_id": "page0121_panel0008",
+      "page": 121,
+      "panel": 8,
+      "similarity": 0.9811,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 16,
+      "panel": 2,
+      "panel_id": "page0016_panel0002",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0016_panel0002.jpg",
+      "similarity": 0.9811,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 197,
+      "panel": 0,
+      "panel_id": "page0197_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0197_panel0000.jpg",
+      "manga": "old_boy_vol03",
+      "similarity": 0.9811,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0041_panel0007.jpg",
+      "panel_id": "page0041_panel0007",
+      "manga": "old_boy_vol01",
+      "panel": 7,
+      "page": 41,
+      "similarity": 0.981,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 0,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0075_panel0000.jpg",
+      "page": 75,
+      "panel_id": "page0075_panel0000",
+      "similarity": 0.981,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 30,
+      "manga": "old_boy_vol01",
+      "panel": 6,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0030_panel0006.jpg",
+      "panel_id": "page0030_panel0006",
+      "similarity": 0.981,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 2,
+      "page": 30,
+      "panel_id": "page0030_panel0002",
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0030_panel0002.jpg",
+      "similarity": 0.981,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0179_panel0008",
+      "panel": 8,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0179_panel0008.jpg",
+      "manga": "old_boy_vol02",
+      "page": 179,
+      "similarity": 0.981,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel_id": "page0079_panel0014",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0079_panel0014.jpg",
+      "panel": 14,
+      "page": 79,
+      "similarity": 0.981,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0101_panel0003",
+      "panel": 3,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0101_panel0003.jpg",
+      "page": 101,
+      "manga": "old_boy_vol03",
+      "similarity": 0.981,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 106,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0106_panel0000.jpg",
+      "manga": "old_boy_vol03",
+      "panel": 0,
+      "panel_id": "page0106_panel0000",
+      "similarity": 0.981,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 7,
+      "panel_id": "page0145_panel0007",
+      "page": 145,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0145_panel0007.jpg",
+      "manga": "old_boy_vol03",
+      "similarity": 0.981,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 6,
+      "panel_id": "page0205_panel0006",
+      "page": 205,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0205_panel0006.jpg",
+      "manga": "old_boy_vol01",
+      "similarity": 0.9809,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0180_panel0007",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0180_panel0007.jpg",
+      "panel": 7,
+      "page": 180,
+      "similarity": 0.9809,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0148_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0148_panel0003.jpg",
+      "page": 148,
+      "manga": "old_boy_vol02",
+      "panel": 3,
+      "similarity": 0.9809,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0067_panel0016",
+      "panel": 16,
+      "page": 67,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0067_panel0016.jpg",
+      "similarity": 0.9809,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 95,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0095_panel0009.jpg",
+      "panel_id": "page0095_panel0009",
+      "manga": "old_boy_vol01",
+      "panel": 9,
+      "similarity": 0.9808,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0049_panel0015.jpg",
+      "panel": 15,
+      "page": 49,
+      "panel_id": "page0049_panel0015",
+      "similarity": 0.9808,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0102_panel0005",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0102_panel0005.jpg",
+      "page": 102,
+      "manga": "old_boy_vol03",
+      "panel": 5,
+      "similarity": 0.9808,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0174_panel0001.jpg",
+      "manga": "old_boy_vol03",
+      "page": 174,
+      "panel_id": "page0174_panel0001",
+      "panel": 1,
+      "similarity": 0.9808,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0134_panel0002.jpg",
+      "page": 134,
+      "panel_id": "page0134_panel0002",
+      "panel": 2,
+      "similarity": 0.9807,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 2,
+      "panel_id": "page0171_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0171_panel0002.jpg",
+      "page": 171,
+      "manga": "old_boy_vol02",
+      "similarity": 0.9807,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0114_panel0009",
+      "page": 114,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0114_panel0009.jpg",
+      "panel": 9,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9807,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0121_panel0000.jpg",
+      "manga": "old_boy_vol02",
+      "panel_id": "page0121_panel0000",
+      "panel": 0,
+      "page": 121,
+      "similarity": 0.9806,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 0,
+      "panel_id": "page0062_panel0000",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0062_panel0000.jpg",
+      "page": 62,
+      "similarity": 0.9806,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0169_panel0002",
+      "page": 169,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0169_panel0002.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 2,
+      "similarity": 0.9805,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 104,
+      "manga": "old_boy_vol03",
+      "panel": 0,
+      "panel_id": "page0104_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0104_panel0000.jpg",
+      "similarity": 0.9805,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0087_panel0012.jpg",
+      "panel": 12,
+      "page": 87,
+      "panel_id": "page0087_panel0012",
+      "manga": "old_boy_vol03",
+      "similarity": 0.9805,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 83,
+      "manga": "old_boy_vol01",
+      "panel": 3,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0083_panel0003.jpg",
+      "panel_id": "page0083_panel0003",
+      "similarity": 0.9804,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0191_panel0002.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 2,
+      "page": 191,
+      "panel_id": "page0191_panel0002",
+      "similarity": 0.9804,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 70,
+      "panel_id": "page0070_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0070_panel0000.jpg",
+      "manga": "old_boy_vol02",
+      "panel": 0,
+      "similarity": 0.9804,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 13,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0080_panel0013.jpg",
+      "manga": "old_boy_vol02",
+      "page": 80,
+      "panel_id": "page0080_panel0013",
+      "similarity": 0.9803,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0060_panel0001.jpg",
+      "page": 60,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0060_panel0001",
+      "similarity": 0.9803,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 0,
+      "manga": "old_boy_vol01",
+      "page": 172,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0172_panel0000.jpg",
+      "panel_id": "page0172_panel0000",
+      "similarity": 0.9802,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 14,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0014_panel0008",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0014_panel0008.jpg",
+      "panel": 8,
+      "similarity": 0.9802,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 172,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0172_panel0011",
+      "panel": 11,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0172_panel0011.jpg",
+      "similarity": 0.9802,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 109,
+      "panel_id": "page0109_panel0012",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0109_panel0012.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 12,
+      "similarity": 0.9801,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 183,
+      "panel_id": "page0183_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0183_panel0001.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 1,
+      "similarity": 0.9801,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 173,
+      "panel": 9,
+      "panel_id": "page0173_panel0009",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0173_panel0009.jpg",
+      "similarity": 0.9801,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0020_panel0002",
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0020_panel0002.jpg",
+      "manga": "old_boy_vol03",
+      "page": 20,
+      "similarity": 0.9801,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 1,
+      "panel_id": "page0064_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0064_panel0001.jpg",
+      "page": 64,
+      "manga": "old_boy_vol01",
+      "similarity": 0.98,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 179,
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0179_panel0000.jpg",
+      "panel_id": "page0179_panel0000",
+      "manga": "old_boy_vol01",
+      "similarity": 0.98,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0095_panel0000.jpg",
+      "panel_id": "page0095_panel0000",
+      "page": 95,
+      "manga": "old_boy_vol02",
+      "similarity": 0.98,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 154,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0154_panel0001.jpg",
+      "panel_id": "page0154_panel0001",
+      "manga": "old_boy_vol02",
+      "panel": 1,
+      "similarity": 0.98,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel": 7,
+      "panel_id": "page0084_panel0007",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0084_panel0007.jpg",
+      "page": 84,
+      "similarity": 0.98,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0056_panel0001",
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0056_panel0001.jpg",
+      "page": 56,
+      "similarity": 0.9799,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0022_panel0004",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0022_panel0004.jpg",
+      "page": 22,
+      "panel": 4,
+      "similarity": 0.9799,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 4,
+      "panel_id": "page0026_panel0004",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0026_panel0004.jpg",
+      "page": 26,
+      "similarity": 0.9798,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0064_panel0000",
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0064_panel0000.jpg",
+      "manga": "old_boy_vol02",
+      "page": 64,
+      "similarity": 0.9798,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0198_panel0001.jpg",
+      "page": 198,
+      "panel": 1,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0198_panel0001",
+      "similarity": 0.9798,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0022_panel0002",
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0022_panel0002.jpg",
+      "manga": "old_boy_vol03",
+      "page": 22,
+      "similarity": 0.9798,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0067_panel0012.jpg",
+      "panel": 12,
+      "manga": "old_boy_vol03",
+      "page": 67,
+      "panel_id": "page0067_panel0012",
+      "similarity": 0.9798,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 191,
+      "manga": "old_boy_vol03",
+      "panel": 3,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0191_panel0003.jpg",
+      "panel_id": "page0191_panel0003",
+      "similarity": 0.9798,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "page": 113,
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0113_panel0001.jpg",
+      "panel_id": "page0113_panel0001",
+      "similarity": 0.9797,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 6,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0042_panel0006",
+      "page": 42,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0042_panel0006.jpg",
+      "similarity": 0.9797,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0082_panel0002.jpg",
+      "panel": 2,
+      "panel_id": "page0082_panel0002",
+      "page": 82,
+      "similarity": 0.9797,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0161_panel0004.jpg",
+      "manga": "old_boy_vol01",
+      "page": 161,
+      "panel_id": "page0161_panel0004",
+      "panel": 4,
+      "similarity": 0.9796,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 3,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0111_panel0003.jpg",
+      "page": 111,
+      "panel_id": "page0111_panel0003",
+      "similarity": 0.9796,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 0,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0013_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0013_panel0000.jpg",
+      "page": 13,
+      "similarity": 0.9796,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0184_panel0004",
+      "page": 184,
+      "panel": 4,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0184_panel0004.jpg",
+      "similarity": 0.9796,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 4,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0012_panel0004",
+      "page": 12,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0012_panel0004.jpg",
+      "similarity": 0.9795,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 69,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0069_panel0002.jpg",
+      "panel_id": "page0069_panel0002",
+      "panel": 2,
+      "similarity": 0.9795,
+      "character": "Shinichi Goto",
+      "volume": "old_boy_vol01"
+    }
+  ],
+  "Takaaki Kakinuma": [
+    {
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0127_panel0000.jpg",
+      "page": 127,
+      "panel_id": "page0127_panel0000",
+      "manga": "old_boy_vol01",
+      "similarity": 0.9091,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 6,
+      "manga": "old_boy_vol01",
+      "page": 143,
+      "panel_id": "page0143_panel0006",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0143_panel0006.jpg",
+      "similarity": 0.9017,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0010_panel0014.jpg",
+      "panel_id": "page0010_panel0014",
+      "manga": "old_boy_vol02",
+      "page": 10,
+      "panel": 14,
+      "similarity": 0.8905,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel_id": "page0143_panel0004",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0143_panel0004.jpg",
+      "panel": 4,
+      "page": 143,
+      "similarity": 0.8877,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 5,
+      "panel_id": "page0128_panel0005",
+      "page": 128,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0128_panel0005.jpg",
+      "manga": "old_boy_vol01",
+      "similarity": 0.8873,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 8,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0129_panel0008.jpg",
+      "page": 129,
+      "panel_id": "page0129_panel0008",
+      "similarity": 0.8811,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 88,
+      "panel_id": "page0088_panel0006",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0088_panel0006.jpg",
+      "panel": 6,
+      "similarity": 0.8784,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 99,
+      "panel": 2,
+      "panel_id": "page0099_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0099_panel0002.jpg",
+      "manga": "old_boy_vol01",
+      "similarity": 0.8778,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 107,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0107_panel0008.jpg",
+      "panel": 8,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0107_panel0008",
+      "similarity": 0.8773,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0110_panel0002.jpg",
+      "manga": "old_boy_vol01",
+      "panel_id": "page0110_panel0002",
+      "page": 110,
+      "similarity": 0.8736,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 7,
+      "page": 89,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0089_panel0007.jpg",
+      "panel_id": "page0089_panel0007",
+      "manga": "old_boy_vol01",
+      "similarity": 0.8732,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 8,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0135_panel0008.jpg",
+      "manga": "old_boy_vol03",
+      "panel_id": "page0135_panel0008",
+      "page": 135,
+      "similarity": 0.8732,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 2,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0109_panel0002.jpg",
+      "page": 109,
+      "panel_id": "page0109_panel0002",
+      "similarity": 0.8728,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0181_panel0007",
+      "panel": 7,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0181_panel0007.jpg",
+      "page": 181,
+      "similarity": 0.8724,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel": 3,
+      "page": 137,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0137_panel0003.jpg",
+      "panel_id": "page0137_panel0003",
+      "similarity": 0.8722,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 12,
+      "page": 197,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0197_panel0012.jpg",
+      "panel_id": "page0197_panel0012",
+      "similarity": 0.8717,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0122_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0122_panel0001.jpg",
+      "panel": 1,
+      "page": 122,
+      "manga": "old_boy_vol02",
+      "similarity": 0.8716,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 1,
+      "manga": "old_boy_vol01",
+      "page": 130,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0130_panel0001.jpg",
+      "panel_id": "page0130_panel0001",
+      "similarity": 0.8712,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel_id": "page0099_panel0006",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0099_panel0006.jpg",
+      "page": 99,
+      "panel": 6,
+      "similarity": 0.8703,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0164_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0164_panel0000.jpg",
+      "panel": 0,
+      "page": 164,
+      "manga": "old_boy_vol03",
+      "similarity": 0.87,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0127_panel0002.jpg",
+      "panel": 2,
+      "panel_id": "page0127_panel0002",
+      "manga": "old_boy_vol01",
+      "page": 127,
+      "similarity": 0.8697,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 5,
+      "manga": "old_boy_vol02",
+      "page": 106,
+      "panel_id": "page0106_panel0005",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0106_panel0005.jpg",
+      "similarity": 0.8692,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "page": 173,
+      "panel": 0,
+      "panel_id": "page0173_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0173_panel0000.jpg",
+      "similarity": 0.8688,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0058_panel0010",
+      "page": 58,
+      "panel": 10,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0058_panel0010.jpg",
+      "similarity": 0.8681,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0015_panel0005.jpg",
+      "page": 15,
+      "panel": 5,
+      "panel_id": "page0015_panel0005",
+      "similarity": 0.8678,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 0,
+      "panel_id": "page0203_panel0000",
+      "page": 203,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0203_panel0000.jpg",
+      "manga": "old_boy_vol03",
+      "similarity": 0.8676,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0144_panel0014",
+      "page": 144,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0144_panel0014.jpg",
+      "panel": 14,
+      "similarity": 0.8674,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 46,
+      "manga": "old_boy_vol02",
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0046_panel0001.jpg",
+      "panel_id": "page0046_panel0001",
+      "similarity": 0.8667,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 3,
+      "page": 101,
+      "panel_id": "page0101_panel0003",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0101_panel0003.jpg",
+      "similarity": 0.8666,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0052_panel0004.jpg",
+      "panel": 4,
+      "page": 52,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0052_panel0004",
+      "similarity": 0.8666,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "page": 130,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0130_panel0004.jpg",
+      "panel": 4,
+      "panel_id": "page0130_panel0004",
+      "similarity": 0.8665,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0201_panel0008",
+      "page": 201,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0201_panel0008.jpg",
+      "panel": 8,
+      "manga": "old_boy_vol01",
+      "similarity": 0.8664,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0021_panel0005",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0021_panel0005.jpg",
+      "panel": 5,
+      "manga": "old_boy_vol03",
+      "page": 21,
+      "similarity": 0.8661,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel_id": "page0206_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0206_panel0000.jpg",
+      "page": 206,
+      "panel": 0,
+      "similarity": 0.866,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 155,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0155_panel0005.jpg",
+      "manga": "old_boy_vol03",
+      "panel_id": "page0155_panel0005",
+      "panel": 5,
+      "similarity": 0.8657,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 0,
+      "page": 70,
+      "panel_id": "page0070_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0070_panel0000.jpg",
+      "manga": "old_boy_vol01",
+      "similarity": 0.865,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0183_panel0000",
+      "page": 183,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0183_panel0000.jpg",
+      "manga": "old_boy_vol02",
+      "panel": 0,
+      "similarity": 0.8647,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 7,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0008_panel0007.jpg",
+      "page": 8,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0008_panel0007",
+      "similarity": 0.8645,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel_id": "page0070_panel0004",
+      "page": 70,
+      "panel": 4,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0070_panel0004.jpg",
+      "similarity": 0.8643,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0143_panel0001",
+      "manga": "old_boy_vol01",
+      "page": 143,
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0143_panel0001.jpg",
+      "similarity": 0.8642,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 203,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0203_panel0004.jpg",
+      "panel_id": "page0203_panel0004",
+      "panel": 4,
+      "similarity": 0.8642,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 169,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0169_panel0005.jpg",
+      "panel_id": "page0169_panel0005",
+      "manga": "old_boy_vol02",
+      "panel": 5,
+      "similarity": 0.8642,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 9,
+      "page": 129,
+      "panel_id": "page0129_panel0009",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0129_panel0009.jpg",
+      "manga": "old_boy_vol01",
+      "similarity": 0.8638,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0099_panel0008.jpg",
+      "manga": "old_boy_vol02",
+      "panel": 8,
+      "panel_id": "page0099_panel0008",
+      "page": 99,
+      "similarity": 0.8638,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel": 6,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0190_panel0006.jpg",
+      "page": 190,
+      "panel_id": "page0190_panel0006",
+      "similarity": 0.8638,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 3,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0072_panel0003.jpg",
+      "page": 72,
+      "panel_id": "page0072_panel0003",
+      "similarity": 0.8635,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0099_panel0007.jpg",
+      "panel_id": "page0099_panel0007",
+      "manga": "old_boy_vol02",
+      "panel": 7,
+      "page": 99,
+      "similarity": 0.8634,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0092_panel0001",
+      "panel": 1,
+      "manga": "old_boy_vol03",
+      "page": 92,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0092_panel0001.jpg",
+      "similarity": 0.8631,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0163_panel0001",
+      "page": 163,
+      "panel": 1,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0163_panel0001.jpg",
+      "similarity": 0.8626,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0119_panel0006",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0119_panel0006.jpg",
+      "page": 119,
+      "manga": "old_boy_vol03",
+      "panel": 6,
+      "similarity": 0.8626,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 25,
+      "panel": 5,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0025_panel0005.jpg",
+      "panel_id": "page0025_panel0005",
+      "manga": "old_boy_vol02",
+      "similarity": 0.8625,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 4,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0134_panel0004.jpg",
+      "page": 134,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0134_panel0004",
+      "similarity": 0.8622,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 35,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0035_panel0000",
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0035_panel0000.jpg",
+      "similarity": 0.8622,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel_id": "page0132_panel0001",
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0132_panel0001.jpg",
+      "page": 132,
+      "similarity": 0.8622,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 61,
+      "panel_id": "page0061_panel0006",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0061_panel0006.jpg",
+      "panel": 6,
+      "manga": "old_boy_vol02",
+      "similarity": 0.8618,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0059_panel0002",
+      "panel": 2,
+      "page": 59,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0059_panel0002.jpg",
+      "similarity": 0.8618,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0081_panel0000",
+      "panel": 0,
+      "page": 81,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0081_panel0000.jpg",
+      "similarity": 0.8617,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel": 1,
+      "page": 123,
+      "panel_id": "page0123_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0123_panel0001.jpg",
+      "similarity": 0.8616,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 109,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0109_panel0010.jpg",
+      "panel_id": "page0109_panel0010",
+      "panel": 10,
+      "similarity": 0.8616,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0051_panel0000.jpg",
+      "manga": "old_boy_vol01",
+      "panel_id": "page0051_panel0000",
+      "page": 51,
+      "panel": 0,
+      "similarity": 0.8615,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 82,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0082_panel0004",
+      "panel": 4,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0082_panel0004.jpg",
+      "similarity": 0.8613,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0070_panel0006",
+      "page": 70,
+      "manga": "old_boy_vol02",
+      "panel": 6,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0070_panel0006.jpg",
+      "similarity": 0.8612,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel_id": "page0056_panel0012",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0056_panel0012.jpg",
+      "panel": 12,
+      "page": 56,
+      "similarity": 0.8607,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 66,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0066_panel0007.jpg",
+      "manga": "old_boy_vol02",
+      "panel_id": "page0066_panel0007",
+      "panel": 7,
+      "similarity": 0.8605,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0078_panel0002.jpg",
+      "panel_id": "page0078_panel0002",
+      "page": 78,
+      "manga": "old_boy_vol03",
+      "similarity": 0.8605,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 150,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0150_panel0005.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 5,
+      "panel_id": "page0150_panel0005",
+      "similarity": 0.8602,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 140,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0140_panel0002",
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0140_panel0002.jpg",
+      "similarity": 0.8602,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0142_panel0006.jpg",
+      "manga": "old_boy_vol02",
+      "page": 142,
+      "panel_id": "page0142_panel0006",
+      "panel": 6,
+      "similarity": 0.8602,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 203,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0203_panel0001.jpg",
+      "manga": "old_boy_vol02",
+      "panel_id": "page0203_panel0001",
+      "panel": 1,
+      "similarity": 0.8601,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0116_panel0005.jpg",
+      "page": 116,
+      "manga": "old_boy_vol01",
+      "panel": 5,
+      "panel_id": "page0116_panel0005",
+      "similarity": 0.86,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "page": 104,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0104_panel0004.jpg",
+      "panel_id": "page0104_panel0004",
+      "panel": 4,
+      "similarity": 0.8597,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel": 0,
+      "page": 17,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0017_panel0000.jpg",
+      "panel_id": "page0017_panel0000",
+      "similarity": 0.8593,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 3,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0062_panel0003.jpg",
+      "page": 62,
+      "panel_id": "page0062_panel0003",
+      "manga": "old_boy_vol01",
+      "similarity": 0.8592,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel": 7,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0029_panel0007.jpg",
+      "panel_id": "page0029_panel0007",
+      "page": 29,
+      "similarity": 0.8592,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 147,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0147_panel0005",
+      "panel": 5,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0147_panel0005.jpg",
+      "similarity": 0.859,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 203,
+      "panel": 0,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0203_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0203_panel0000.jpg",
+      "similarity": 0.859,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0101_panel0001.jpg",
+      "page": 101,
+      "panel_id": "page0101_panel0001",
+      "manga": "old_boy_vol03",
+      "panel": 1,
+      "similarity": 0.8588,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "page": 71,
+      "panel_id": "page0071_panel0004",
+      "panel": 4,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0071_panel0004.jpg",
+      "similarity": 0.8587,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0149_panel0000",
+      "manga": "old_boy_vol01",
+      "page": 149,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0149_panel0000.jpg",
+      "panel": 0,
+      "similarity": 0.8586,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0185_panel0000",
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0185_panel0000.jpg",
+      "manga": "old_boy_vol02",
+      "page": 185,
+      "similarity": 0.8585,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "page": 182,
+      "panel": 6,
+      "panel_id": "page0182_panel0006",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0182_panel0006.jpg",
+      "similarity": 0.8585,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0100_panel0002",
+      "manga": "old_boy_vol01",
+      "page": 100,
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0100_panel0002.jpg",
+      "similarity": 0.8584,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0177_panel0000.jpg",
+      "page": 177,
+      "panel_id": "page0177_panel0000",
+      "manga": "old_boy_vol03",
+      "panel": 0,
+      "similarity": 0.8584,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel_id": "page0104_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0104_panel0000.jpg",
+      "page": 104,
+      "panel": 0,
+      "similarity": 0.8583,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "page": 119,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0119_panel0011.jpg",
+      "panel_id": "page0119_panel0011",
+      "panel": 11,
+      "similarity": 0.8583,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0006_panel0004.jpg",
+      "panel_id": "page0006_panel0004",
+      "page": 6,
+      "manga": "old_boy_vol03",
+      "panel": 4,
+      "similarity": 0.8582,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel_id": "page0101_panel0004",
+      "page": 101,
+      "panel": 4,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0101_panel0004.jpg",
+      "similarity": 0.8581,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0064_panel0001",
+      "panel": 1,
+      "manga": "old_boy_vol03",
+      "page": 64,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0064_panel0001.jpg",
+      "similarity": 0.8581,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 134,
+      "panel_id": "page0134_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0134_panel0002.jpg",
+      "manga": "old_boy_vol02",
+      "panel": 2,
+      "similarity": 0.858,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 9,
+      "panel_id": "page0053_panel0009",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0053_panel0009.jpg",
+      "page": 53,
+      "manga": "old_boy_vol02",
+      "similarity": 0.8579,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0157_panel0000",
+      "page": 157,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0157_panel0000.jpg",
+      "panel": 0,
+      "manga": "old_boy_vol03",
+      "similarity": 0.8578,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 15,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0015_panel0005.jpg",
+      "panel_id": "page0015_panel0005",
+      "panel": 5,
+      "manga": "old_boy_vol01",
+      "similarity": 0.8576,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0146_panel0001.jpg",
+      "manga": "old_boy_vol01",
+      "page": 146,
+      "panel_id": "page0146_panel0001",
+      "similarity": 0.8576,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0159_panel0000",
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0159_panel0000.jpg",
+      "page": 159,
+      "manga": "old_boy_vol01",
+      "similarity": 0.8572,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "page": 145,
+      "panel_id": "page0145_panel0002",
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0145_panel0002.jpg",
+      "similarity": 0.8572,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0191_panel0002.jpg",
+      "manga": "old_boy_vol03",
+      "page": 191,
+      "panel_id": "page0191_panel0002",
+      "panel": 2,
+      "similarity": 0.8571,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0190_panel0007",
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0190_panel0007.jpg",
+      "panel": 7,
+      "page": 190,
+      "similarity": 0.857,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "page": 175,
+      "panel": 7,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0175_panel0007.jpg",
+      "panel_id": "page0175_panel0007",
+      "similarity": 0.8569,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "page": 135,
+      "panel_id": "page0135_panel0002",
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0135_panel0002.jpg",
+      "similarity": 0.8569,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0150_panel0006",
+      "page": 150,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0150_panel0006.jpg",
+      "panel": 6,
+      "manga": "old_boy_vol01",
+      "similarity": 0.8567,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 58,
+      "panel": 0,
+      "panel_id": "page0058_panel0000",
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0058_panel0000.jpg",
+      "similarity": 0.8567,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0074_panel0001.jpg",
+      "panel": 1,
+      "page": 74,
+      "panel_id": "page0074_panel0001",
+      "similarity": 0.8567,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0032_panel0008.jpg",
+      "page": 32,
+      "panel": 8,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0032_panel0008",
+      "similarity": 0.8566,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0018_panel0009",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0018_panel0009.jpg",
+      "page": 18,
+      "manga": "old_boy_vol02",
+      "panel": 9,
+      "similarity": 0.8566,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 9,
+      "manga": "old_boy_vol01",
+      "page": 163,
+      "panel_id": "page0163_panel0009",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0163_panel0009.jpg",
+      "similarity": 0.8559,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0140_panel0000.jpg",
+      "manga": "old_boy_vol02",
+      "page": 140,
+      "panel_id": "page0140_panel0000",
+      "similarity": 0.8559,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0160_panel0011.jpg",
+      "page": 160,
+      "panel_id": "page0160_panel0011",
+      "panel": 11,
+      "manga": "old_boy_vol03",
+      "similarity": 0.8558,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 201,
+      "panel_id": "page0201_panel0010",
+      "manga": "old_boy_vol01",
+      "panel": 10,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0201_panel0010.jpg",
+      "similarity": 0.8555,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "page": 163,
+      "panel": 3,
+      "panel_id": "page0163_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0163_panel0003.jpg",
+      "similarity": 0.8554,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 10,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0131_panel0010.jpg",
+      "panel_id": "page0131_panel0010",
+      "manga": "old_boy_vol02",
+      "page": 131,
+      "similarity": 0.8552,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 141,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0141_panel0000.jpg",
+      "panel_id": "page0141_panel0000",
+      "panel": 0,
+      "similarity": 0.8551,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0079_panel0003.jpg",
+      "page": 79,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0079_panel0003",
+      "panel": 3,
+      "similarity": 0.855,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel_id": "page0071_panel0001",
+      "page": 71,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0071_panel0001.jpg",
+      "panel": 1,
+      "similarity": 0.8549,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 181,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0181_panel0002.jpg",
+      "manga": "old_boy_vol02",
+      "panel_id": "page0181_panel0002",
+      "panel": 2,
+      "similarity": 0.8548,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0136_panel0000.jpg",
+      "manga": "old_boy_vol02",
+      "page": 136,
+      "panel_id": "page0136_panel0000",
+      "panel": 0,
+      "similarity": 0.8547,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0126_panel0000",
+      "page": 126,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0126_panel0000.jpg",
+      "panel": 0,
+      "similarity": 0.8546,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 136,
+      "panel_id": "page0136_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0136_panel0003.jpg",
+      "panel": 3,
+      "manga": "old_boy_vol02",
+      "similarity": 0.8546,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0079_panel0000",
+      "page": 79,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0079_panel0000.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 0,
+      "similarity": 0.8545,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 147,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0147_panel0003",
+      "panel": 3,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0147_panel0003.jpg",
+      "similarity": 0.8545,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 9,
+      "page": 170,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0170_panel0009.jpg",
+      "panel_id": "page0170_panel0009",
+      "similarity": 0.8544,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 174,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0174_panel0005.jpg",
+      "panel": 5,
+      "panel_id": "page0174_panel0005",
+      "similarity": 0.8543,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0135_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0135_panel0001.jpg",
+      "panel": 1,
+      "page": 135,
+      "manga": "old_boy_vol03",
+      "similarity": 0.8543,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0046_panel0003.jpg",
+      "panel_id": "page0046_panel0003",
+      "page": 46,
+      "panel": 3,
+      "manga": "old_boy_vol03",
+      "similarity": 0.8542,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0044_panel0000",
+      "manga": "old_boy_vol03",
+      "page": 44,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0044_panel0000.jpg",
+      "panel": 0,
+      "similarity": 0.8541,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "page": 129,
+      "panel_id": "page0129_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0129_panel0001.jpg",
+      "panel": 1,
+      "similarity": 0.854,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0075_panel0006",
+      "page": 75,
+      "panel": 6,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0075_panel0006.jpg",
+      "manga": "old_boy_vol02",
+      "similarity": 0.8538,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 0,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0149_panel0000",
+      "page": 149,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0149_panel0000.jpg",
+      "similarity": 0.8538,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 6,
+      "panel_id": "page0006_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0006_panel0003.jpg",
+      "manga": "old_boy_vol03",
+      "panel": 3,
+      "similarity": 0.8536,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 182,
+      "panel_id": "page0182_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0182_panel0000.jpg",
+      "panel": 0,
+      "manga": "old_boy_vol02",
+      "similarity": 0.8534,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0146_panel0000",
+      "page": 146,
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0146_panel0000.jpg",
+      "similarity": 0.8534,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0082_panel0000.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 0,
+      "panel_id": "page0082_panel0000",
+      "page": 82,
+      "similarity": 0.8533,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 104,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0104_panel0002.jpg",
+      "panel": 2,
+      "panel_id": "page0104_panel0002",
+      "manga": "old_boy_vol02",
+      "similarity": 0.8533,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel_id": "page0017_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0017_panel0000.jpg",
+      "panel": 0,
+      "page": 17,
+      "similarity": 0.8532,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 29,
+      "panel": 5,
+      "panel_id": "page0029_panel0005",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0029_panel0005.jpg",
+      "similarity": 0.8528,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0067_panel0000.jpg",
+      "page": 67,
+      "panel_id": "page0067_panel0000",
+      "similarity": 0.8525,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0138_panel0003.jpg",
+      "panel": 3,
+      "manga": "old_boy_vol03",
+      "page": 138,
+      "panel_id": "page0138_panel0003",
+      "similarity": 0.8525,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0089_panel0015",
+      "panel": 15,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0089_panel0015.jpg",
+      "page": 89,
+      "similarity": 0.8523,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0036_panel0003.jpg",
+      "panel_id": "page0036_panel0003",
+      "panel": 3,
+      "manga": "old_boy_vol02",
+      "page": 36,
+      "similarity": 0.8522,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0081_panel0000",
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0081_panel0000.jpg",
+      "panel": 0,
+      "page": 81,
+      "similarity": 0.8522,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0132_panel0000.jpg",
+      "panel_id": "page0132_panel0000",
+      "panel": 0,
+      "page": 132,
+      "similarity": 0.852,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 0,
+      "manga": "old_boy_vol01",
+      "page": 21,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0021_panel0000.jpg",
+      "panel_id": "page0021_panel0000",
+      "similarity": 0.8519,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0077_panel0007.jpg",
+      "panel": 7,
+      "page": 77,
+      "panel_id": "page0077_panel0007",
+      "similarity": 0.8519,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 13,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0097_panel0013.jpg",
+      "page": 97,
+      "panel_id": "page0097_panel0013",
+      "manga": "old_boy_vol03",
+      "similarity": 0.8519,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0120_panel0001.jpg",
+      "panel": 1,
+      "page": 120,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0120_panel0001",
+      "similarity": 0.8518,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0041_panel0004",
+      "panel": 4,
+      "page": 41,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0041_panel0004.jpg",
+      "similarity": 0.8518,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0028_panel0000.jpg",
+      "panel_id": "page0028_panel0000",
+      "page": 28,
+      "similarity": 0.8517,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0108_panel0000.jpg",
+      "manga": "old_boy_vol02",
+      "page": 108,
+      "panel": 0,
+      "panel_id": "page0108_panel0000",
+      "similarity": 0.8517,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 100,
+      "panel_id": "page0100_panel0014",
+      "panel": 14,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0100_panel0014.jpg",
+      "similarity": 0.8516,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0129_panel0006.jpg",
+      "panel_id": "page0129_panel0006",
+      "manga": "old_boy_vol02",
+      "panel": 6,
+      "page": 129,
+      "similarity": 0.8514,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0022_panel0000.jpg",
+      "panel_id": "page0022_panel0000",
+      "page": 22,
+      "panel": 0,
+      "manga": "old_boy_vol02",
+      "similarity": 0.8513,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0160_panel0002",
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0160_panel0002.jpg",
+      "page": 160,
+      "panel": 2,
+      "similarity": 0.8512,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel": 6,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0167_panel0006.jpg",
+      "page": 167,
+      "panel_id": "page0167_panel0006",
+      "similarity": 0.8512,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0106_panel0002.jpg",
+      "panel_id": "page0106_panel0002",
+      "panel": 2,
+      "manga": "old_boy_vol03",
+      "page": 106,
+      "similarity": 0.8511,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 9,
+      "page": 154,
+      "panel_id": "page0154_panel0009",
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0154_panel0009.jpg",
+      "similarity": 0.8511,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 1,
+      "panel_id": "page0119_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0119_panel0001.jpg",
+      "page": 119,
+      "manga": "old_boy_vol01",
+      "similarity": 0.851,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0086_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0086_panel0002.jpg",
+      "panel": 2,
+      "page": 86,
+      "manga": "old_boy_vol03",
+      "similarity": 0.851,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 101,
+      "panel_id": "page0101_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0101_panel0003.jpg",
+      "panel": 3,
+      "manga": "old_boy_vol01",
+      "similarity": 0.8509,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0111_panel0012",
+      "panel": 12,
+      "page": 111,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0111_panel0012.jpg",
+      "manga": "old_boy_vol01",
+      "similarity": 0.8509,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 11,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0133_panel0011.jpg",
+      "page": 133,
+      "panel_id": "page0133_panel0011",
+      "similarity": 0.8509,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 30,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0030_panel0002.jpg",
+      "manga": "old_boy_vol03",
+      "panel": 2,
+      "panel_id": "page0030_panel0002",
+      "similarity": 0.8509,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0191_panel0001",
+      "panel": 1,
+      "page": 191,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0191_panel0001.jpg",
+      "similarity": 0.8509,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 120,
+      "panel": 6,
+      "panel_id": "page0120_panel0006",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0120_panel0006.jpg",
+      "manga": "old_boy_vol01",
+      "similarity": 0.8508,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 16,
+      "page": 131,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0131_panel0016",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0131_panel0016.jpg",
+      "similarity": 0.8508,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0182_panel0000.jpg",
+      "panel": 0,
+      "page": 182,
+      "panel_id": "page0182_panel0000",
+      "manga": "old_boy_vol03",
+      "similarity": 0.8508,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0131_panel0000.jpg",
+      "page": 131,
+      "panel_id": "page0131_panel0000",
+      "manga": "old_boy_vol01",
+      "panel": 0,
+      "similarity": 0.8506,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 186,
+      "panel": 13,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0186_panel0013.jpg",
+      "panel_id": "page0186_panel0013",
+      "similarity": 0.8505,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 29,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0029_panel0005",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0029_panel0005.jpg",
+      "panel": 5,
+      "similarity": 0.8505,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0037_panel0009",
+      "panel": 9,
+      "page": 37,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0037_panel0009.jpg",
+      "manga": "old_boy_vol03",
+      "similarity": 0.8505,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0102_panel0000",
+      "page": 102,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0102_panel0000.jpg",
+      "panel": 0,
+      "manga": "old_boy_vol03",
+      "similarity": 0.8505,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0158_panel0000.jpg",
+      "page": 158,
+      "panel": 0,
+      "panel_id": "page0158_panel0000",
+      "similarity": 0.8504,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 2,
+      "panel_id": "page0032_panel0002",
+      "page": 32,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0032_panel0002.jpg",
+      "similarity": 0.8504,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0201_panel0012.jpg",
+      "manga": "old_boy_vol01",
+      "page": 201,
+      "panel_id": "page0201_panel0012",
+      "panel": 12,
+      "similarity": 0.8503,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0155_panel0005.jpg",
+      "panel_id": "page0155_panel0005",
+      "manga": "old_boy_vol01",
+      "panel": 5,
+      "page": 155,
+      "similarity": 0.8502,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 7,
+      "panel_id": "page0088_panel0007",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0088_panel0007.jpg",
+      "manga": "old_boy_vol03",
+      "page": 88,
+      "similarity": 0.8502,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0139_panel0004",
+      "panel": 4,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0139_panel0004.jpg",
+      "manga": "old_boy_vol01",
+      "page": 139,
+      "similarity": 0.8501,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel": 0,
+      "page": 150,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0150_panel0000.jpg",
+      "panel_id": "page0150_panel0000",
+      "similarity": 0.8501,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0159_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0159_panel0002.jpg",
+      "panel": 2,
+      "manga": "old_boy_vol03",
+      "page": 159,
+      "similarity": 0.8501,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0062_panel0000.jpg",
+      "panel": 0,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0062_panel0000",
+      "page": 62,
+      "similarity": 0.85,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 1,
+      "panel_id": "page0028_panel0001",
+      "manga": "old_boy_vol02",
+      "page": 28,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0028_panel0001.jpg",
+      "similarity": 0.8497,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 3,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0154_panel0003.jpg",
+      "page": 154,
+      "panel_id": "page0154_panel0003",
+      "similarity": 0.8495,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0127_panel0001.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 1,
+      "panel_id": "page0127_panel0001",
+      "page": 127,
+      "similarity": 0.8495,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 68,
+      "panel_id": "page0068_panel0008",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0068_panel0008.jpg",
+      "panel": 8,
+      "manga": "old_boy_vol01",
+      "similarity": 0.8494,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 203,
+      "panel_id": "page0203_panel0014",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0203_panel0014.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 14,
+      "similarity": 0.8494,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0146_panel0005.jpg",
+      "panel_id": "page0146_panel0005",
+      "panel": 5,
+      "manga": "old_boy_vol03",
+      "page": 146,
+      "similarity": 0.8494,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 1,
+      "page": 109,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0109_panel0001.jpg",
+      "manga": "old_boy_vol03",
+      "panel_id": "page0109_panel0001",
+      "similarity": 0.8494,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0147_panel0000",
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0147_panel0000.jpg",
+      "panel": 0,
+      "page": 147,
+      "similarity": 0.8494,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 10,
+      "panel": 0,
+      "panel_id": "page0010_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0010_panel0000.jpg",
+      "manga": "old_boy_vol03",
+      "similarity": 0.8493,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0061_panel0000.jpg",
+      "manga": "old_boy_vol01",
+      "panel_id": "page0061_panel0000",
+      "page": 61,
+      "panel": 0,
+      "similarity": 0.8492,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0130_panel0002.jpg",
+      "page": 130,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0130_panel0002",
+      "similarity": 0.8492,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 1,
+      "page": 204,
+      "panel_id": "page0204_panel0001",
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0204_panel0001.jpg",
+      "similarity": 0.8492,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0156_panel0000.jpg",
+      "page": 156,
+      "manga": "old_boy_vol01",
+      "panel": 0,
+      "panel_id": "page0156_panel0000",
+      "similarity": 0.8491,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0129_panel0010.jpg",
+      "panel_id": "page0129_panel0010",
+      "panel": 10,
+      "manga": "old_boy_vol03",
+      "page": 129,
+      "similarity": 0.8491,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0200_panel0008.jpg",
+      "panel_id": "page0200_panel0008",
+      "panel": 8,
+      "page": 200,
+      "manga": "old_boy_vol02",
+      "similarity": 0.849,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0020_panel0001.jpg",
+      "panel_id": "page0020_panel0001",
+      "manga": "old_boy_vol02",
+      "panel": 1,
+      "page": 20,
+      "similarity": 0.849,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 3,
+      "manga": "old_boy_vol03",
+      "page": 142,
+      "panel_id": "page0142_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0142_panel0003.jpg",
+      "similarity": 0.849,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0119_panel0007",
+      "panel": 7,
+      "page": 119,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0119_panel0007.jpg",
+      "similarity": 0.8489,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0166_panel0001.jpg",
+      "panel_id": "page0166_panel0001",
+      "manga": "old_boy_vol01",
+      "page": 166,
+      "similarity": 0.8489,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 177,
+      "panel": 5,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0177_panel0005.jpg",
+      "manga": "old_boy_vol03",
+      "panel_id": "page0177_panel0005",
+      "similarity": 0.8488,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0095_panel0006.jpg",
+      "panel_id": "page0095_panel0006",
+      "manga": "old_boy_vol02",
+      "page": 95,
+      "panel": 6,
+      "similarity": 0.8487,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0200_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0200_panel0001.jpg",
+      "panel": 1,
+      "manga": "old_boy_vol02",
+      "page": 200,
+      "similarity": 0.8487,
+      "character": "Takaaki Kakinuma",
+      "volume": "old_boy_vol02"
+    }
+  ],
+  "Eri": [
+    {
+      "panel_id": "page0113_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0113_panel0003.jpg",
+      "page": 113,
+      "panel": 3,
+      "manga": "old_boy_vol01",
+      "similarity": 0.9739,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0017_panel0008",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0017_panel0008.jpg",
+      "page": 17,
+      "panel": 8,
+      "similarity": 0.9716,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0065_panel0002.jpg",
+      "panel_id": "page0065_panel0002",
+      "manga": "old_boy_vol01",
+      "panel": 2,
+      "page": 65,
+      "similarity": 0.9707,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0113_panel0006.jpg",
+      "page": 113,
+      "panel": 6,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0113_panel0006",
+      "similarity": 0.9682,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel_id": "page0132_panel0005",
+      "page": 132,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0132_panel0005.jpg",
+      "panel": 5,
+      "similarity": 0.9677,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0055_panel0004.jpg",
+      "page": 55,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0055_panel0004",
+      "panel": 4,
+      "similarity": 0.9669,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0008_panel0012.jpg",
+      "page": 8,
+      "panel": 12,
+      "panel_id": "page0008_panel0012",
+      "similarity": 0.9663,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0116_panel0007.jpg",
+      "panel": 7,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0116_panel0007",
+      "page": 116,
+      "similarity": 0.9647,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0067_panel0010.jpg",
+      "page": 67,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0067_panel0010",
+      "panel": 10,
+      "similarity": 0.9646,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 195,
+      "manga": "old_boy_vol03",
+      "panel": 8,
+      "panel_id": "page0195_panel0008",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0195_panel0008.jpg",
+      "similarity": 0.9627,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0118_panel0006.jpg",
+      "panel_id": "page0118_panel0006",
+      "panel": 6,
+      "page": 118,
+      "similarity": 0.9626,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 10,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0010_panel0009.jpg",
+      "panel": 9,
+      "panel_id": "page0010_panel0009",
+      "similarity": 0.9623,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0177_panel0002.jpg",
+      "panel_id": "page0177_panel0002",
+      "page": 177,
+      "similarity": 0.9618,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 2,
+      "manga": "old_boy_vol02",
+      "page": 22,
+      "panel_id": "page0022_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0022_panel0002.jpg",
+      "similarity": 0.961,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 6,
+      "panel_id": "page0130_panel0006",
+      "page": 130,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0130_panel0006.jpg",
+      "manga": "old_boy_vol03",
+      "similarity": 0.9609,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 2,
+      "manga": "old_boy_vol01",
+      "page": 117,
+      "panel_id": "page0117_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0117_panel0002.jpg",
+      "similarity": 0.9606,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0007_panel0000",
+      "manga": "old_boy_vol02",
+      "page": 7,
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0007_panel0000.jpg",
+      "similarity": 0.9606,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 1,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0153_panel0001.jpg",
+      "page": 153,
+      "panel_id": "page0153_panel0001",
+      "similarity": 0.9605,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0050_panel0004.jpg",
+      "panel": 4,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0050_panel0004",
+      "page": 50,
+      "similarity": 0.9604,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0188_panel0009",
+      "page": 188,
+      "manga": "old_boy_vol03",
+      "panel": 9,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0188_panel0009.jpg",
+      "similarity": 0.9602,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 11,
+      "page": 74,
+      "panel_id": "page0074_panel0011",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0074_panel0011.jpg",
+      "similarity": 0.9599,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0005_panel0006.jpg",
+      "manga": "old_boy_vol02",
+      "panel_id": "page0005_panel0006",
+      "page": 5,
+      "panel": 6,
+      "similarity": 0.9595,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0008_panel0006",
+      "panel": 6,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0008_panel0006.jpg",
+      "page": 8,
+      "similarity": 0.9593,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 2,
+      "panel_id": "page0053_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0053_panel0002.jpg",
+      "manga": "old_boy_vol03",
+      "page": 53,
+      "similarity": 0.9593,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0064_panel0000.jpg",
+      "manga": "old_boy_vol01",
+      "page": 64,
+      "panel": 0,
+      "panel_id": "page0064_panel0000",
+      "similarity": 0.959,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 111,
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0111_panel0001.jpg",
+      "panel_id": "page0111_panel0001",
+      "manga": "old_boy_vol03",
+      "similarity": 0.9588,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 8,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0111_panel0008.jpg",
+      "panel_id": "page0111_panel0008",
+      "page": 111,
+      "similarity": 0.9585,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 193,
+      "manga": "old_boy_vol02",
+      "panel": 3,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0193_panel0003.jpg",
+      "panel_id": "page0193_panel0003",
+      "similarity": 0.9585,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0187_panel0012.jpg",
+      "panel": 12,
+      "panel_id": "page0187_panel0012",
+      "page": 187,
+      "similarity": 0.9584,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 196,
+      "manga": "old_boy_vol03",
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0196_panel0002.jpg",
+      "panel_id": "page0196_panel0002",
+      "similarity": 0.9581,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 2,
+      "panel_id": "page0182_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0182_panel0002.jpg",
+      "page": 182,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9572,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0092_panel0002.jpg",
+      "manga": "old_boy_vol02",
+      "panel_id": "page0092_panel0002",
+      "page": 92,
+      "panel": 2,
+      "similarity": 0.9569,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0088_panel0006",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0088_panel0006.jpg",
+      "page": 88,
+      "panel": 6,
+      "similarity": 0.9569,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0033_panel0002",
+      "page": 33,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0033_panel0002.jpg",
+      "panel": 2,
+      "similarity": 0.9555,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0157_panel0001.jpg",
+      "panel_id": "page0157_panel0001",
+      "page": 157,
+      "manga": "old_boy_vol01",
+      "similarity": 0.9551,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0066_panel0017",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0066_panel0017.jpg",
+      "panel": 17,
+      "manga": "old_boy_vol03",
+      "page": 66,
+      "similarity": 0.9548,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 51,
+      "panel_id": "page0051_panel0003",
+      "manga": "old_boy_vol03",
+      "panel": 3,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0051_panel0003.jpg",
+      "similarity": 0.9547,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 131,
+      "manga": "old_boy_vol02",
+      "panel": 2,
+      "panel_id": "page0131_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0131_panel0002.jpg",
+      "similarity": 0.9546,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0172_panel0005",
+      "page": 172,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0172_panel0005.jpg",
+      "panel": 5,
+      "similarity": 0.9545,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0171_panel0009.jpg",
+      "panel": 9,
+      "manga": "old_boy_vol01",
+      "page": 171,
+      "panel_id": "page0171_panel0009",
+      "similarity": 0.9543,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 49,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0049_panel0011.jpg",
+      "panel_id": "page0049_panel0011",
+      "panel": 11,
+      "similarity": 0.9543,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0015_panel0003",
+      "page": 15,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0015_panel0003.jpg",
+      "manga": "old_boy_vol03",
+      "panel": 3,
+      "similarity": 0.954,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 17,
+      "panel_id": "page0022_panel0017",
+      "page": 22,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0022_panel0017.jpg",
+      "manga": "old_boy_vol03",
+      "similarity": 0.9536,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0065_panel0000.jpg",
+      "page": 65,
+      "panel_id": "page0065_panel0000",
+      "manga": "old_boy_vol03",
+      "panel": 0,
+      "similarity": 0.9535,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 104,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0104_panel0002.jpg",
+      "manga": "old_boy_vol03",
+      "panel_id": "page0104_panel0002",
+      "panel": 2,
+      "similarity": 0.9535,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel": 11,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0022_panel0011.jpg",
+      "page": 22,
+      "panel_id": "page0022_panel0011",
+      "similarity": 0.9534,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 28,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0028_panel0002",
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0028_panel0002.jpg",
+      "similarity": 0.9527,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0177_panel0000.jpg",
+      "panel_id": "page0177_panel0000",
+      "page": 177,
+      "manga": "old_boy_vol01",
+      "similarity": 0.9525,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel": 3,
+      "panel_id": "page0013_panel0003",
+      "page": 13,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0013_panel0003.jpg",
+      "similarity": 0.952,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0116_panel0005",
+      "page": 116,
+      "panel": 5,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0116_panel0005.jpg",
+      "manga": "old_boy_vol02",
+      "similarity": 0.952,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 31,
+      "panel_id": "page0031_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0031_panel0002.jpg",
+      "panel": 2,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9519,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 50,
+      "panel": 10,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0050_panel0010",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0050_panel0010.jpg",
+      "similarity": 0.9518,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0152_panel0001.jpg",
+      "page": 152,
+      "panel_id": "page0152_panel0001",
+      "similarity": 0.9517,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0012_panel0008.jpg",
+      "manga": "old_boy_vol02",
+      "panel_id": "page0012_panel0008",
+      "panel": 8,
+      "page": 12,
+      "similarity": 0.9517,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 89,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0089_panel0008.jpg",
+      "panel_id": "page0089_panel0008",
+      "manga": "old_boy_vol03",
+      "panel": 8,
+      "similarity": 0.9517,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 8,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0169_panel0008.jpg",
+      "panel_id": "page0169_panel0008",
+      "manga": "old_boy_vol01",
+      "page": 169,
+      "similarity": 0.9516,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0134_panel0007.jpg",
+      "panel": 7,
+      "panel_id": "page0134_panel0007",
+      "page": 134,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9513,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 6,
+      "manga": "old_boy_vol01",
+      "page": 153,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0153_panel0006.jpg",
+      "panel_id": "page0153_panel0006",
+      "similarity": 0.9512,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 6,
+      "page": 47,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0047_panel0006",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0047_panel0006.jpg",
+      "similarity": 0.951,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 187,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0187_panel0016",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0187_panel0016.jpg",
+      "panel": 16,
+      "similarity": 0.9507,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 179,
+      "panel_id": "page0179_panel0008",
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0179_panel0008.jpg",
+      "panel": 8,
+      "similarity": 0.9506,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 9,
+      "page": 41,
+      "panel_id": "page0041_panel0009",
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0041_panel0009.jpg",
+      "similarity": 0.9504,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0055_panel0005",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0055_panel0005.jpg",
+      "panel": 5,
+      "manga": "old_boy_vol03",
+      "page": 55,
+      "similarity": 0.9504,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 176,
+      "panel": 5,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0176_panel0005.jpg",
+      "manga": "old_boy_vol01",
+      "panel_id": "page0176_panel0005",
+      "similarity": 0.9503,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel": 9,
+      "page": 88,
+      "panel_id": "page0088_panel0009",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0088_panel0009.jpg",
+      "similarity": 0.9502,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 153,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0153_panel0011.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 11,
+      "panel_id": "page0153_panel0011",
+      "similarity": 0.9501,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0022_panel0001.jpg",
+      "page": 22,
+      "manga": "old_boy_vol02",
+      "panel": 1,
+      "panel_id": "page0022_panel0001",
+      "similarity": 0.9501,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 9,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0175_panel0009",
+      "page": 175,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0175_panel0009.jpg",
+      "similarity": 0.9497,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0182_panel0008",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0182_panel0008.jpg",
+      "page": 182,
+      "panel": 8,
+      "similarity": 0.9494,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0130_panel0008",
+      "panel": 8,
+      "page": 130,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0130_panel0008.jpg",
+      "similarity": 0.949,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0131_panel0001.jpg",
+      "page": 131,
+      "panel": 1,
+      "panel_id": "page0131_panel0001",
+      "similarity": 0.9489,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 70,
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0070_panel0001.jpg",
+      "manga": "old_boy_vol03",
+      "panel_id": "page0070_panel0001",
+      "similarity": 0.9488,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0020_panel0000.jpg",
+      "panel": 0,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0020_panel0000",
+      "page": 20,
+      "similarity": 0.9483,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0152_panel0003.jpg",
+      "manga": "old_boy_vol01",
+      "page": 152,
+      "panel": 3,
+      "panel_id": "page0152_panel0003",
+      "similarity": 0.948,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0134_panel0009",
+      "panel": 9,
+      "page": 134,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0134_panel0009.jpg",
+      "manga": "old_boy_vol02",
+      "similarity": 0.9479,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 198,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0198_panel0006",
+      "panel": 6,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0198_panel0006.jpg",
+      "similarity": 0.9479,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0089_panel0001",
+      "manga": "old_boy_vol03",
+      "panel": 1,
+      "page": 89,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0089_panel0001.jpg",
+      "similarity": 0.9479,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0165_panel0003",
+      "panel": 3,
+      "page": 165,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0165_panel0003.jpg",
+      "similarity": 0.9479,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0144_panel0003.jpg",
+      "panel": 3,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0144_panel0003",
+      "page": 144,
+      "similarity": 0.9479,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0169_panel0012.jpg",
+      "panel_id": "page0169_panel0012",
+      "manga": "old_boy_vol01",
+      "page": 169,
+      "panel": 12,
+      "similarity": 0.9478,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0187_panel0015",
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0187_panel0015.jpg",
+      "page": 187,
+      "panel": 15,
+      "similarity": 0.9477,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0075_panel0003",
+      "panel": 3,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0075_panel0003.jpg",
+      "page": 75,
+      "similarity": 0.9477,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0087_panel0004",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0087_panel0004.jpg",
+      "page": 87,
+      "manga": "old_boy_vol03",
+      "panel": 4,
+      "similarity": 0.9475,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 10,
+      "manga": "old_boy_vol02",
+      "page": 8,
+      "panel_id": "page0008_panel0010",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0008_panel0010.jpg",
+      "similarity": 0.9474,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 51,
+      "panel_id": "page0051_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0051_panel0002.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 2,
+      "similarity": 0.9472,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0008_panel0002.jpg",
+      "manga": "old_boy_vol02",
+      "page": 8,
+      "panel": 2,
+      "panel_id": "page0008_panel0002",
+      "similarity": 0.9472,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0143_panel0013",
+      "page": 143,
+      "panel": 13,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0143_panel0013.jpg",
+      "similarity": 0.9469,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 0,
+      "panel_id": "page0031_panel0000",
+      "page": 31,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0031_panel0000.jpg",
+      "similarity": 0.9468,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 190,
+      "panel_id": "page0190_panel0003",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0190_panel0003.jpg",
+      "manga": "old_boy_vol02",
+      "panel": 3,
+      "similarity": 0.9466,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "page": 103,
+      "panel": 8,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0103_panel0008.jpg",
+      "panel_id": "page0103_panel0008",
+      "similarity": 0.9466,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 1,
+      "manga": "old_boy_vol03",
+      "page": 9,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0009_panel0001.jpg",
+      "panel_id": "page0009_panel0001",
+      "similarity": 0.9465,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 180,
+      "manga": "old_boy_vol02",
+      "panel": 0,
+      "panel_id": "page0180_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0180_panel0000.jpg",
+      "similarity": 0.9464,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 198,
+      "panel_id": "page0198_panel0008",
+      "panel": 8,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0198_panel0008.jpg",
+      "similarity": 0.9463,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 97,
+      "panel_id": "page0097_panel0009",
+      "manga": "old_boy_vol03",
+      "panel": 9,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0097_panel0009.jpg",
+      "similarity": 0.9463,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0188_panel0005",
+      "manga": "old_boy_vol01",
+      "page": 188,
+      "panel": 5,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0188_panel0005.jpg",
+      "similarity": 0.946,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0188_panel0007",
+      "manga": "old_boy_vol01",
+      "panel": 7,
+      "page": 188,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0188_panel0007.jpg",
+      "similarity": 0.9459,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 187,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0187_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0187_panel0001.jpg",
+      "panel": 1,
+      "similarity": 0.9458,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0124_panel0006",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0124_panel0006.jpg",
+      "manga": "old_boy_vol03",
+      "page": 124,
+      "panel": 6,
+      "similarity": 0.9458,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0055_panel0011",
+      "panel": 11,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0055_panel0011.jpg",
+      "page": 55,
+      "manga": "old_boy_vol02",
+      "similarity": 0.9455,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0134_panel0011.jpg",
+      "panel_id": "page0134_panel0011",
+      "page": 134,
+      "panel": 11,
+      "manga": "old_boy_vol03",
+      "similarity": 0.9455,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel_id": "page0167_panel0001",
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0167_panel0001.jpg",
+      "page": 167,
+      "similarity": 0.9453,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0179_panel0007.jpg",
+      "panel": 7,
+      "page": 179,
+      "panel_id": "page0179_panel0007",
+      "manga": "old_boy_vol02",
+      "similarity": 0.9452,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0089_panel0002",
+      "page": 89,
+      "panel": 2,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0089_panel0002.jpg",
+      "similarity": 0.9452,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0021_panel0000.jpg",
+      "page": 21,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0021_panel0000",
+      "panel": 0,
+      "similarity": 0.9451,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 12,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0051_panel0012.jpg",
+      "panel_id": "page0051_panel0012",
+      "manga": "old_boy_vol03",
+      "page": 51,
+      "similarity": 0.9449,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0195_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0195_panel0000.jpg",
+      "page": 195,
+      "panel": 0,
+      "similarity": 0.9449,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel_id": "page0138_panel0006",
+      "panel": 6,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0138_panel0006.jpg",
+      "page": 138,
+      "similarity": 0.9446,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 8,
+      "panel_id": "page0115_panel0008",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0115_panel0008.jpg",
+      "page": 115,
+      "manga": "old_boy_vol01",
+      "similarity": 0.9445,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel": 7,
+      "page": 118,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0118_panel0007.jpg",
+      "panel_id": "page0118_panel0007",
+      "similarity": 0.9445,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 0,
+      "panel_id": "page0133_panel0000",
+      "manga": "old_boy_vol01",
+      "page": 133,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0133_panel0000.jpg",
+      "similarity": 0.9444,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 14,
+      "page": 187,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0187_panel0014.jpg",
+      "manga": "old_boy_vol01",
+      "panel_id": "page0187_panel0014",
+      "similarity": 0.9444,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 0,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0174_panel0000.jpg",
+      "panel_id": "page0174_panel0000",
+      "page": 174,
+      "similarity": 0.9444,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0070_panel0000",
+      "page": 70,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0070_panel0000.jpg",
+      "panel": 0,
+      "similarity": 0.9444,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 0,
+      "page": 115,
+      "panel_id": "page0115_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0115_panel0000.jpg",
+      "manga": "old_boy_vol01",
+      "similarity": 0.9441,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 2,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0162_panel0002.jpg",
+      "page": 162,
+      "panel_id": "page0162_panel0002",
+      "similarity": 0.9441,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel_id": "page0198_panel0000",
+      "panel": 0,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0198_panel0000.jpg",
+      "page": 198,
+      "similarity": 0.9439,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0089_panel0001",
+      "page": 89,
+      "panel": 1,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0089_panel0001.jpg",
+      "similarity": 0.9439,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 122,
+      "panel": 9,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0122_panel0009.jpg",
+      "panel_id": "page0122_panel0009",
+      "similarity": 0.9439,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 40,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0040_panel0002.jpg",
+      "panel": 2,
+      "panel_id": "page0040_panel0002",
+      "similarity": 0.9437,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0041_panel0003.jpg",
+      "page": 41,
+      "manga": "old_boy_vol03",
+      "panel": 3,
+      "panel_id": "page0041_panel0003",
+      "similarity": 0.9436,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 3,
+      "panel_id": "page0054_panel0003",
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0054_panel0003.jpg",
+      "page": 54,
+      "similarity": 0.9435,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0089_panel0007.jpg",
+      "page": 89,
+      "manga": "old_boy_vol03",
+      "panel": 7,
+      "panel_id": "page0089_panel0007",
+      "similarity": 0.9434,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 12,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0100_panel0012",
+      "page": 100,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0100_panel0012.jpg",
+      "similarity": 0.9432,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "page": 5,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0005_panel0005.jpg",
+      "panel": 5,
+      "panel_id": "page0005_panel0005",
+      "similarity": 0.9432,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "page": 48,
+      "panel": 10,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0048_panel0010.jpg",
+      "panel_id": "page0048_panel0010",
+      "similarity": 0.943,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 132,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0132_panel0009.jpg",
+      "panel_id": "page0132_panel0009",
+      "panel": 9,
+      "manga": "old_boy_vol01",
+      "similarity": 0.9428,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0177_panel0000.jpg",
+      "page": 177,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0177_panel0000",
+      "panel": 0,
+      "similarity": 0.9428,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 7,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0007_panel0006.jpg",
+      "manga": "old_boy_vol02",
+      "panel": 6,
+      "panel_id": "page0007_panel0006",
+      "similarity": 0.9426,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0090_panel0013.jpg",
+      "panel_id": "page0090_panel0013",
+      "panel": 13,
+      "page": 90,
+      "similarity": 0.9426,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 64,
+      "manga": "old_boy_vol01",
+      "panel": 7,
+      "panel_id": "page0064_panel0007",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0064_panel0007.jpg",
+      "similarity": 0.9424,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 1,
+      "page": 203,
+      "panel_id": "page0203_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0203_panel0001.jpg",
+      "manga": "old_boy_vol01",
+      "similarity": 0.9422,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0176_panel0006.jpg",
+      "panel": 6,
+      "panel_id": "page0176_panel0006",
+      "manga": "old_boy_vol02",
+      "page": 176,
+      "similarity": 0.942,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0123_panel0002.jpg",
+      "panel_id": "page0123_panel0002",
+      "manga": "old_boy_vol03",
+      "page": 123,
+      "panel": 2,
+      "similarity": 0.942,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel_id": "page0062_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0062_panel0001.jpg",
+      "panel": 1,
+      "page": 62,
+      "similarity": 0.942,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0040_panel0001.jpg",
+      "panel_id": "page0040_panel0001",
+      "page": 40,
+      "panel": 1,
+      "manga": "old_boy_vol01",
+      "similarity": 0.9418,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0027_panel0006",
+      "manga": "old_boy_vol03",
+      "page": 27,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0027_panel0006.jpg",
+      "panel": 6,
+      "similarity": 0.9418,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel_id": "page0163_panel0001",
+      "panel": 1,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0163_panel0001.jpg",
+      "page": 163,
+      "similarity": 0.9416,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0019_panel0005.jpg",
+      "page": 19,
+      "panel": 5,
+      "panel_id": "page0019_panel0005",
+      "similarity": 0.9415,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "page": 202,
+      "panel_id": "page0202_panel0008",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0202_panel0008.jpg",
+      "panel": 8,
+      "similarity": 0.9413,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 8,
+      "page": 155,
+      "panel_id": "page0155_panel0008",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0155_panel0008.jpg",
+      "manga": "old_boy_vol02",
+      "similarity": 0.9413,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0031_panel0000.jpg",
+      "manga": "old_boy_vol03",
+      "panel": 0,
+      "page": 31,
+      "panel_id": "page0031_panel0000",
+      "similarity": 0.9413,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 6,
+      "panel_id": "page0177_panel0006",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0177_panel0006.jpg",
+      "manga": "old_boy_vol01",
+      "page": 177,
+      "similarity": 0.9412,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0091_panel0002.jpg",
+      "page": 91,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0091_panel0002",
+      "panel": 2,
+      "similarity": 0.9412,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0073_panel0004.jpg",
+      "panel": 4,
+      "page": 73,
+      "manga": "old_boy_vol01",
+      "panel_id": "page0073_panel0004",
+      "similarity": 0.9411,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0022_panel0008",
+      "manga": "old_boy_vol03",
+      "page": 22,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0022_panel0008.jpg",
+      "panel": 8,
+      "similarity": 0.941,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0031_panel0015.jpg",
+      "panel_id": "page0031_panel0015",
+      "panel": 15,
+      "manga": "old_boy_vol03",
+      "page": 31,
+      "similarity": 0.941,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel_id": "page0149_panel0003",
+      "panel": 3,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0149_panel0003.jpg",
+      "page": 149,
+      "similarity": 0.9409,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0094_panel0009.jpg",
+      "manga": "old_boy_vol01",
+      "page": 94,
+      "panel": 9,
+      "panel_id": "page0094_panel0009",
+      "similarity": 0.9408,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0131_panel0009.jpg",
+      "panel_id": "page0131_panel0009",
+      "panel": 9,
+      "page": 131,
+      "similarity": 0.9407,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel_id": "page0026_panel0003",
+      "panel": 3,
+      "page": 26,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0026_panel0003.jpg",
+      "similarity": 0.9406,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "page": 115,
+      "panel": 9,
+      "panel_id": "page0115_panel0009",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0115_panel0009.jpg",
+      "similarity": 0.9404,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0161_panel0000.jpg",
+      "page": 161,
+      "panel": 0,
+      "panel_id": "page0161_panel0000",
+      "similarity": 0.9404,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0056_panel0004.jpg",
+      "panel_id": "page0056_panel0004",
+      "page": 56,
+      "panel": 4,
+      "similarity": 0.9403,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0191_panel0000.jpg",
+      "page": 191,
+      "panel": 0,
+      "panel_id": "page0191_panel0000",
+      "similarity": 0.9401,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 149,
+      "panel": 10,
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0149_panel0010.jpg",
+      "panel_id": "page0149_panel0010",
+      "similarity": 0.9401,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0086_panel0001",
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0086_panel0001.jpg",
+      "page": 86,
+      "panel": 1,
+      "similarity": 0.94,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0097_panel0005.jpg",
+      "panel": 5,
+      "manga": "old_boy_vol01",
+      "page": 97,
+      "panel_id": "page0097_panel0005",
+      "similarity": 0.94,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel": 9,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0194_panel0009.jpg",
+      "page": 194,
+      "panel_id": "page0194_panel0009",
+      "similarity": 0.94,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0014_panel0005.jpg",
+      "page": 14,
+      "panel_id": "page0014_panel0005",
+      "panel": 5,
+      "manga": "old_boy_vol02",
+      "similarity": 0.9399,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0100_panel0011",
+      "page": 100,
+      "panel": 11,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0100_panel0011.jpg",
+      "similarity": 0.9398,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "page": 67,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0067_panel0015.jpg",
+      "panel_id": "page0067_panel0015",
+      "panel": 15,
+      "similarity": 0.9398,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 5,
+      "panel": 14,
+      "panel_id": "page0005_panel0014",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0005_panel0014.jpg",
+      "manga": "old_boy_vol02",
+      "similarity": 0.9397,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0081_panel0007.jpg",
+      "page": 81,
+      "panel": 7,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0081_panel0007",
+      "similarity": 0.9397,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 5,
+      "manga": "old_boy_vol01",
+      "page": 169,
+      "panel_id": "page0169_panel0005",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0169_panel0005.jpg",
+      "similarity": 0.9396,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 121,
+      "panel": 10,
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0121_panel0010.jpg",
+      "panel_id": "page0121_panel0010",
+      "similarity": 0.9396,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 17,
+      "panel": 11,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0017_panel0011.jpg",
+      "manga": "old_boy_vol02",
+      "panel_id": "page0017_panel0011",
+      "similarity": 0.9396,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0018_panel0005.jpg",
+      "panel_id": "page0018_panel0005",
+      "manga": "old_boy_vol03",
+      "page": 18,
+      "panel": 5,
+      "similarity": 0.9396,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0094_panel0000.jpg",
+      "page": 94,
+      "panel": 0,
+      "panel_id": "page0094_panel0000",
+      "similarity": 0.9395,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 5,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0201_panel0005.jpg",
+      "page": 201,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0201_panel0005",
+      "similarity": 0.9394,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel": 13,
+      "panel_id": "page0008_panel0013",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0008_panel0013.jpg",
+      "page": 8,
+      "similarity": 0.9393,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 0,
+      "page": 114,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0114_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0114_panel0000.jpg",
+      "similarity": 0.9393,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel": 0,
+      "page": 63,
+      "panel_id": "page0063_panel0000",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0063_panel0000.jpg",
+      "similarity": 0.9392,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 2,
+      "panel_id": "page0088_panel0002",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0088_panel0002.jpg",
+      "manga": "old_boy_vol01",
+      "page": 88,
+      "similarity": 0.9392,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0091_panel0011.jpg",
+      "page": 91,
+      "manga": "old_boy_vol01",
+      "panel": 11,
+      "panel_id": "page0091_panel0011",
+      "similarity": 0.939,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 5,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0186_panel0005.jpg",
+      "manga": "old_boy_vol03",
+      "panel_id": "page0186_panel0005",
+      "page": 186,
+      "similarity": 0.939,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 124,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0124_panel0008.jpg",
+      "manga": "old_boy_vol03",
+      "panel": 8,
+      "panel_id": "page0124_panel0008",
+      "similarity": 0.939,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 3,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0023_panel0003.jpg",
+      "manga": "old_boy_vol03",
+      "panel_id": "page0023_panel0003",
+      "page": 23,
+      "similarity": 0.9389,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 11,
+      "manga": "old_boy_vol03",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0053_panel0011.jpg",
+      "page": 53,
+      "panel_id": "page0053_panel0011",
+      "similarity": 0.9388,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 148,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0148_panel0002.jpg",
+      "panel": 2,
+      "manga": "old_boy_vol03",
+      "panel_id": "page0148_panel0002",
+      "similarity": 0.9387,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel_id": "page0008_panel0004",
+      "page": 8,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0008_panel0004.jpg",
+      "panel": 4,
+      "similarity": 0.9386,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 67,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0067_panel0009.jpg",
+      "panel_id": "page0067_panel0009",
+      "panel": 9,
+      "manga": "old_boy_vol02",
+      "similarity": 0.9385,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "page": 173,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0173_panel0003.jpg",
+      "manga": "old_boy_vol01",
+      "panel": 3,
+      "panel_id": "page0173_panel0003",
+      "similarity": 0.9384,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "manga": "old_boy_vol03",
+      "panel": 8,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0019_panel0008.jpg",
+      "page": 19,
+      "panel_id": "page0019_panel0008",
+      "similarity": 0.9384,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0063_panel0003.jpg",
+      "page": 63,
+      "panel": 3,
+      "panel_id": "page0063_panel0003",
+      "similarity": 0.9383,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "panel": 3,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0152_panel0003.jpg",
+      "manga": "old_boy_vol02",
+      "panel_id": "page0152_panel0003",
+      "page": 152,
+      "similarity": 0.9383,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "page": 190,
+      "panel": 1,
+      "panel_id": "page0190_panel0001",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0190_panel0001.jpg",
+      "similarity": 0.9382,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel_id": "page0132_panel0015",
+      "panel": 15,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0132_panel0015.jpg",
+      "manga": "old_boy_vol03",
+      "page": 132,
+      "similarity": 0.9382,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "manga": "old_boy_vol01",
+      "panel_id": "page0199_panel0015",
+      "panel": 15,
+      "page": 199,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0199_panel0015.jpg",
+      "similarity": 0.938,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 21,
+      "manga": "old_boy_vol02",
+      "panel_id": "page0021_panel0002",
+      "panel": 2,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0021_panel0002.jpg",
+      "similarity": 0.9379,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 2,
+      "page": 161,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0161_panel0002.jpg",
+      "panel_id": "page0161_panel0002",
+      "manga": "old_boy_vol01",
+      "similarity": 0.9378,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0112_panel0007.jpg",
+      "panel_id": "page0112_panel0007",
+      "page": 112,
+      "panel": 7,
+      "manga": "old_boy_vol01",
+      "similarity": 0.9377,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "page": 89,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0089_panel0000.jpg",
+      "manga": "old_boy_vol02",
+      "panel": 0,
+      "panel_id": "page0089_panel0000",
+      "similarity": 0.9376,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0037_panel0007.jpg",
+      "page": 37,
+      "panel": 7,
+      "panel_id": "page0037_panel0007",
+      "manga": "old_boy_vol03",
+      "similarity": 0.9376,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "panel": 9,
+      "panel_id": "page0008_panel0009",
+      "page": 8,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0008_panel0009.jpg",
+      "manga": "old_boy_vol02",
+      "similarity": 0.9374,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "panel": 2,
+      "panel_id": "page0190_panel0002",
+      "manga": "old_boy_vol02",
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0190_panel0002.jpg",
+      "page": 190,
+      "similarity": 0.9373,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0111_panel0006.jpg",
+      "panel_id": "page0111_panel0006",
+      "page": 111,
+      "manga": "old_boy_vol03",
+      "panel": 6,
+      "similarity": 0.9373,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol03/page0033_panel0009.jpg",
+      "page": 33,
+      "panel_id": "page0033_panel0009",
+      "manga": "old_boy_vol03",
+      "panel": 9,
+      "similarity": 0.9373,
+      "character": "Eri",
+      "volume": "old_boy_vol03"
+    },
+    {
+      "page": 203,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol01/page0203_panel0015.jpg",
+      "manga": "old_boy_vol01",
+      "panel_id": "page0203_panel0015",
+      "panel": 15,
+      "similarity": 0.9372,
+      "character": "Eri",
+      "volume": "old_boy_vol01"
+    },
+    {
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0009_panel0002.jpg",
+      "panel_id": "page0009_panel0002",
+      "page": 9,
+      "panel": 2,
+      "manga": "old_boy_vol02",
+      "similarity": 0.9372,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    },
+    {
+      "manga": "old_boy_vol02",
+      "panel_id": "page0010_panel0011",
+      "panel": 11,
+      "page": 10,
+      "path": "/home/d1pr/projects/mangajepa/data/panels/old_boy_vol02/page0010_panel0011.jpg",
+      "similarity": 0.9372,
+      "character": "Eri",
+      "volume": "old_boy_vol02"
+    }
+  ]
+}

@@ -10,8 +10,11 @@ load_dotenv()
 
 PANELS_DIR     = Path(os.getenv('PANELS_DIR'))
 EMBEDDINGS_DIR = Path(os.getenv('EMBEDDINGS_DIR'))
-MANGA_NAME     = 'old_boy_vol01'
-LABELS_PATH    = Path(f'data/labels/{MANGA_NAME}_character_labels.json')
+#MANGA_NAME     = 'old_boy_vol01'
+MANGA_VOLUMES = ['old_boy_vol01', 'old_boy_vol02', 'old_boy_vol03']
+#LABELS_PATH    = Path(f'data/labels/{MANGA_NAME}_character_labels.json')
+LABELS_PATH = Path('data/labels/all_volumes_character_labels.json')
+SAMPLE_SIZE = 500
 LABELS_PATH.parent.mkdir(parents=True, exist_ok=True)
 
 # Main cast
@@ -51,42 +54,91 @@ def is_text_bubble(panel_id: str, white_threshold: float = 0.85) -> bool:
         return False
 
 
-def sample_panels(n: int = SAMPLE_SIZE) -> list[str]:
+# def sample_panels(n: int = SAMPLE_SIZE) -> list[str]:
+#     """
+#     Sample panels spread across embedding space using farthest point sampling.
+#     This ensures diverse coverage rather than clustering near similar panels.
+#     """
+#     embeddings = np.load(EMBEDDINGS_DIR / MANGA_NAME / 'clip_embeddings.npy')
+#     with open(EMBEDDINGS_DIR / MANGA_NAME / 'metadata.json') as f:
+#         metadata = json.load(f)
+
+#     panel_ids = [m['panel_id'] for m in metadata]
+#     labels    = load_labels()
+
+#     # Prefer unlabeled panels
+#     unlabeled_idx = [i for i, pid in enumerate(panel_ids) if pid not in labels
+#     if not is_text_bubble(panel_ids[i])]
+
+#     if len(unlabeled_idx) <= n:
+#         return [panel_ids[i] for i in unlabeled_idx]
+
+#     # Farthest point sampling from unlabeled panels
+#     embs    = embeddings[unlabeled_idx]
+#     embs    = embs / (np.linalg.norm(embs, axis=1, keepdims=True) + 1e-8)
+#     selected = [np.random.randint(len(unlabeled_idx))]
+
+#     for _ in range(n - 1):
+#         dists = np.min(
+#             [np.sum((embs - embs[s]) ** 2, axis=1) for s in selected],
+#             axis=0
+#         )
+#         selected.append(int(np.argmax(dists)))
+
+#     return [panel_ids[unlabeled_idx[i]] for i in selected]
+
+
+
+def sample_panels(n: int = SAMPLE_SIZE) -> list[tuple[str, str]]:
     """
-    Sample panels spread across embedding space using farthest point sampling.
-    This ensures diverse coverage rather than clustering near similar panels.
+    Sample panels spread across all volumes using farthest point sampling.
+    Returns list of (manga_name, panel_id) tuples.
     """
-    embeddings = np.load(EMBEDDINGS_DIR / MANGA_NAME / 'clip_embeddings.npy')
-    with open(EMBEDDINGS_DIR / MANGA_NAME / 'metadata.json') as f:
-        metadata = json.load(f)
+    all_embeddings = []
+    all_panel_refs = []  # (manga_name, panel_id)
 
-    panel_ids = [m['panel_id'] for m in metadata]
-    labels    = load_labels()
+    labels = load_labels()
 
-    # Prefer unlabeled panels
-    unlabeled_idx = [i for i, pid in enumerate(panel_ids) if pid not in labels
-    if not is_text_bubble(panel_ids[i])]
+    for manga_name in MANGA_VOLUMES:
+        emb_path = EMBEDDINGS_DIR / manga_name / 'clip_embeddings.npy'
+        meta_path = EMBEDDINGS_DIR / manga_name / 'metadata.json'
+        if not emb_path.exists():
+            continue
+        embeddings = np.load(emb_path)
+        with open(meta_path) as f:
+            metadata = json.load(f)
+        for i, m in enumerate(metadata):
+            ref = f'{manga_name}:{m["panel_id"]}'
+            if ref not in labels:
+                all_embeddings.append(embeddings[i])
+                all_panel_refs.append((manga_name, m['panel_id']))
 
-    if len(unlabeled_idx) <= n:
-        return [panel_ids[i] for i in unlabeled_idx]
+    if len(all_panel_refs) <= n:
+        return all_panel_refs
 
-    # Farthest point sampling from unlabeled panels
-    embs    = embeddings[unlabeled_idx]
-    embs    = embs / (np.linalg.norm(embs, axis=1, keepdims=True) + 1e-8)
-    selected = [np.random.randint(len(unlabeled_idx))]
+    all_embeddings = np.array(all_embeddings)
+    all_embeddings = all_embeddings / (
+        np.linalg.norm(all_embeddings, axis=1, keepdims=True) + 1e-8
+    )
 
+    # Farthest point sampling
+    selected = [np.random.randint(len(all_panel_refs))]
     for _ in range(n - 1):
         dists = np.min(
-            [np.sum((embs - embs[s]) ** 2, axis=1) for s in selected],
+            [np.sum((all_embeddings - all_embeddings[s]) ** 2, axis=1)
+             for s in selected],
             axis=0
         )
         selected.append(int(np.argmax(dists)))
 
-    return [panel_ids[unlabeled_idx[i]] for i in selected]
+    return [all_panel_refs[i] for i in selected]
 
+# def get_panel_image(panel_id: str) -> Image.Image:
+#     panel_path = PANELS_DIR / MANGA_NAME / f'{panel_id}.jpg'
+#     return Image.open(panel_path).convert('RGB')
 
-def get_panel_image(panel_id: str) -> Image.Image:
-    panel_path = PANELS_DIR / MANGA_NAME / f'{panel_id}.jpg'
+def get_panel_image(manga_name: str, panel_id: str) -> Image.Image:
+    panel_path = PANELS_DIR / manga_name / f'{panel_id}.jpg'
     return Image.open(panel_path).convert('RGB')
 
 
