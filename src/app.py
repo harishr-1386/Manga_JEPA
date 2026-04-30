@@ -116,6 +116,60 @@ STRICT RULES:
 Answer based purely on the visual evidence:"""
 
 
+# def get_llm_response(
+#     query: str,
+#     panels: list[dict],
+#     all_labels: dict,
+#     model_choice: str,
+#     api_key: str = '',
+# ) -> str:
+#     prompt  = build_prompt(query, panels, all_labels)
+#     images  = []
+#     for p in panels:
+#         path = panel_to_image(p)
+#         if Path(path).exists():
+#             images.append(encode_image(path))
+
+#     if model_choice == 'Gemini Flash' and api_key.strip():
+#         try:
+#             from google import genai
+#             from google.genai import types
+#             client   = genai.Client(api_key=api_key.strip())
+#             content  = [prompt]
+#             for img_b64 in images:
+#                 content.append(types.Part.from_bytes(
+#                     data=base64.b64decode(img_b64),
+#                     mime_type='image/jpeg'
+#                 ))
+#             response = client.models.generate_content(
+#                 model='gemini-2.0-flash', contents=content
+#             )
+#             return response.text
+#         except Exception as e:
+#             return f'Gemini error: {e}\nFalling back to Ollama...\n\n' + \
+#                    get_llm_response(query, panels, all_labels, 'Ollama (local)', '')
+
+#     else:
+#         # Ollama — Llama 3.2 Vision with one image at a time
+#         try:
+#             messages = []
+#             for i, (img_b64, p) in enumerate(zip(images, panels)):
+#                 messages.append({
+#                     'role':    'user',
+#                     'content': f'Panel {i+1}',
+#                     'images':  [img_b64],
+#                 })
+#                 messages.append({
+#                     'role':    'assistant',
+#                     'content': f'I can see panel {i+1}.',
+#                 })
+#             messages.append({'role': 'user', 'content': prompt})
+#             response = ollama.chat(model='llama3.2-vision', messages=messages)
+#             return response['message']['content']
+#         except Exception as e:
+#             return f'Ollama error: {e}\nMake sure Ollama is running with llama3.2-vision.'
+
+
 def get_llm_response(
     query: str,
     panels: list[dict],
@@ -130,7 +184,9 @@ def get_llm_response(
         if Path(path).exists():
             images.append(encode_image(path))
 
-    if model_choice == 'Gemini Flash' and api_key.strip():
+    if model_choice == 'Gemini Flash':
+        if not api_key.strip():
+            return 'Please enter a Gemini API key in the LLM Settings panel above.'
         try:
             from google import genai
             from google.genai import types
@@ -146,12 +202,12 @@ def get_llm_response(
             )
             return response.text
         except Exception as e:
-            return f'Gemini error: {e}\nFalling back to Ollama...\n\n' + \
-                   get_llm_response(query, panels, all_labels, 'Ollama (local)', '')
+            return f'Gemini error: {e}'
 
     else:
-        # Ollama — Llama 3.2 Vision with one image at a time
+        # Ollama
         try:
+            import ollama as ollama_client
             messages = []
             for i, (img_b64, p) in enumerate(zip(images, panels)):
                 messages.append({
@@ -164,11 +220,22 @@ def get_llm_response(
                     'content': f'I can see panel {i+1}.',
                 })
             messages.append({'role': 'user', 'content': prompt})
-            response = ollama.chat(model='llama3.2-vision', messages=messages)
+            response = ollama_client.chat(model='llama3.2-vision', messages=messages)
             return response['message']['content']
+        except ImportError:
+            return (
+                'Ollama Python client not installed. Run: pip install ollama\n\n'
+                'Or switch to Gemini Flash and enter an API key above.'
+            )
         except Exception as e:
-            return f'Ollama error: {e}\nMake sure Ollama is running with llama3.2-vision.'
-
+            if 'connection' in str(e).lower() or 'refused' in str(e).lower():
+                return (
+                    'Ollama is not running. Install and start it:\n\n'
+                    'curl -fsSL https://ollama.com/install.sh | sh\n'
+                    'ollama pull llama3.2-vision\n\n'
+                    'Or switch to Gemini Flash and enter an API key above.'
+                )
+            return f'Ollama error: {e}'
 
 # --- Tab 1: Q&A ---
 
