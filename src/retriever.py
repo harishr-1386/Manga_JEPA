@@ -67,11 +67,23 @@ def retrieve_panels_for_character(
     """
     import json
     from pathlib import Path
-
-    registry_path = Path(f'data/labels/{manga_name}_character_registry.json')
+# remove - cos i added in label propagated data -- 
+    # registry_path = Path(f'data/labels/{manga_name}_character_registry.json')
+    # if not registry_path.exists():
+    #     # Fall back to standard retrieval if no registry
+    #     return retrieve_panels(manga_name, query, n_results)
+# till here 
+    
+    propagated_path = Path(f'data/labels/{manga_name}_propagated_registry.json')
+    manual_path     = Path(f'data/labels/{manga_name}_character_registry.json')
+    registry_path   = propagated_path if propagated_path.exists() else manual_path
     if not registry_path.exists():
         # Fall back to standard retrieval if no registry
         return retrieve_panels(manga_name, query, n_results)
+
+
+
+
 
     with open(registry_path) as f:
         registry = json.load(f)
