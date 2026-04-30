@@ -53,38 +53,93 @@ def retrieve_panels(
 
 
 
+# def retrieve_panels_for_character(
+#     manga_name: str,
+#     character: str,
+#     query: str,
+#     n_results: int = 5,
+# ) -> list[dict]:
+#     """
+#     Character-aware retrieval:
+#     1. Load registry to find panels containing the character
+#     2. Score those panels against the query
+#     3. Return top-k matches
+#     """
+#     import json
+#     from pathlib import Path
+# # remove - cos i added in label propagated data -- 
+#     # registry_path = Path(f'data/labels/{manga_name}_character_registry.json')
+#     # if not registry_path.exists():
+#     #     # Fall back to standard retrieval if no registry
+#     #     return retrieve_panels(manga_name, query, n_results)
+# # till here 
+    
+#     propagated_path = Path(f'data/labels/{manga_name}_propagated_registry.json')
+#     manual_path     = Path(f'data/labels/{manga_name}_character_registry.json')
+#     registry_path   = propagated_path if propagated_path.exists() else manual_path
+#     if not registry_path.exists():
+#         # Fall back to standard retrieval if no registry
+#         return retrieve_panels(manga_name, query, n_results)
+
+
+# Intersection Retrieval to get a balance between - best semantic match and character based match.
 def retrieve_panels_for_character(
     manga_name: str,
     character: str,
     query: str,
     n_results: int = 5,
+    broad_k: int = 100,
 ) -> list[dict]:
     """
-    Character-aware retrieval:
-    1. Load registry to find panels containing the character
-    2. Score those panels against the query
-    3. Return top-k matches
+    Intersection retrieval:
+    1. Broad semantic retrieval (top broad_k panels)
+    2. Filter to panels in character registry
+    3. Return top-n from filtered set
+    Combines semantic relevance with character identity.
     """
     import json
     from pathlib import Path
-# remove - cos i added in label propagated data -- 
-    # registry_path = Path(f'data/labels/{manga_name}_character_registry.json')
-    # if not registry_path.exists():
-    #     # Fall back to standard retrieval if no registry
-    #     return retrieve_panels(manga_name, query, n_results)
-# till here 
-    
+
+    # Load registry
     propagated_path = Path(f'data/labels/{manga_name}_propagated_registry.json')
     manual_path     = Path(f'data/labels/{manga_name}_character_registry.json')
     registry_path   = propagated_path if propagated_path.exists() else manual_path
+
     if not registry_path.exists():
-        # Fall back to standard retrieval if no registry
         return retrieve_panels(manga_name, query, n_results)
 
+    with open(registry_path) as f:
+        registry = json.load(f)
 
+    # Character panel set
+    char_panel_ids = {
+        pid for pid, char in registry.items()
+        if char is not None
+        and isinstance(char, str)
+        and char.lower() == character.lower()
+    }
 
+    if not char_panel_ids:
+        print(f'No labeled panels for {character}, falling back to standard retrieval')
+        return retrieve_panels(manga_name, query, n_results)
 
+    # Broad semantic retrieval
+    broad_results = retrieve_panels(manga_name, query, n_results=broad_k)
 
+    # Filter to character panels
+    filtered = [r for r in broad_results if r['panel_id'] in char_panel_ids]
+
+    if len(filtered) >= n_results:
+        return filtered[:n_results]
+
+    # Fallback: pad with remaining broad results if not enough character panels
+    seen     = {r['panel_id'] for r in filtered}
+    fallback = [r for r in broad_results if r['panel_id'] not in seen]
+    return (filtered + fallback)[:n_results]
+
+    
+    
+    
     with open(registry_path) as f:
         registry = json.load(f)
 
