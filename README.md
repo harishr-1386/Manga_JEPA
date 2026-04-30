@@ -6,6 +6,8 @@ Built for DA6401W Deep Learning, IIT Madras.
 
 ---
 
+![MangaJEPA Action Browser - Fighting scenes retrieved across 3 volumes](docs/app_screenshot.png)
+
 ## What It Does
 
 MangaJEPA answers questions about manga by retrieving relevant panels and grounding responses in those images — not from web searches or pretraining knowledge. If a panel doesn't exist in the index, the system won't make it up.
