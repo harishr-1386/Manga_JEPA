@@ -50,7 +50,13 @@ git clone https://github.com/harishr-1386/Manga_JEPA.git
 cd Manga_JEPA
 conda create -n mangajepa python=3.11 -y
 conda activate mangajepa
+
+# Install PyTorch with CUDA first
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+# Then install remaining dependencies
 pip install -r requirements.txt
+
 ```
 
 ### 2. Download V-JEPA 2 weights

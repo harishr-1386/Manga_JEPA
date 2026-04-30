@@ -226,9 +226,6 @@ timm==1.0.26
 tinycss2==1.4.0
 tokenizers==0.22.2
 tomlkit==0.14.0
-torch==2.6.0+cu124
-torchaudio==2.6.0+cu124
-torchvision==0.21.0+cu124
 tornado==6.5.5
 tqdm==4.67.3
 traitlets==5.14.3
@@ -258,3 +255,6 @@ websockets==16.0
 Werkzeug==3.1.8
 widgetsnbextension==4.0.15
 zipp==3.23.1
+
+# Install PyTorch separately with CUDA support:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
