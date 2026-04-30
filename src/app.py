@@ -10,9 +10,23 @@ from src.retriever import retrieve_panels, retrieve_panels_for_character
 
 load_dotenv()
 
-PANELS_DIR    = Path(os.getenv('PANELS_DIR'))
-OUTPUT_DIR    = Path('data/action_labels')
-INDEX_PATH    = Path('data/labels/character_index.json')
+
+_missing = [v for v in ['PANELS_DIR', 'EMBEDDINGS_DIR']
+            if not os.getenv(v)]
+if _missing:
+    raise EnvironmentError(
+        f'Missing env vars: {_missing}\n'
+        'Copy .env.example to .env and fill in your paths:\n'
+        'cp .env.example .env'
+    )
+
+PANELS_DIR  = Path(os.getenv('PANELS_DIR'))
+OUTPUT_DIR  = Path('data/action_labels')
+INDEX_PATH  = Path('data/labels/character_index.json')
+
+# PANELS_DIR    = Path(os.getenv('PANELS_DIR'))
+# OUTPUT_DIR    = Path('data/action_labels')
+# INDEX_PATH    = Path('data/labels/character_index.json')
 
 VOLUMES    = ['old_boy_vol01', 'old_boy_vol02', 'old_boy_vol03']
 CHARACTERS = ['All', 'Shinichi Goto', 'Takaaki Kakinuma', 'Eri']

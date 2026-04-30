@@ -9,7 +9,10 @@ import open_clip
 
 load_dotenv()
 
-PANELS_DIR = Path(os.getenv('PANELS_DIR'))
+PANELS_DIR_STR = os.getenv('PANELS_DIR')
+if not PANELS_DIR_STR:
+    raise EnvironmentError('PANELS_DIR not set. Copy .env.example to .env and fill in your paths.')
+PANELS_DIR = Path(PANELS_DIR_STR)
 
 clip_model, _, clip_preprocess = open_clip.create_model_and_transforms(
     'ViT-B-32', pretrained='openai'

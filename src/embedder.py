@@ -12,11 +12,21 @@ import types
 
 
 load_dotenv()
+_missing = [v for v in ['VJEPA2_HUB_PATH', 'VJEPA2_WEIGHTS', 'PANELS_DIR', 'EMBEDDINGS_DIR']
+            if not os.getenv(v)]
+if _missing:
+    raise EnvironmentError(f'Missing env vars: {_missing}. Copy .env.example to .env.')
 
 VJEPA2_HUB_PATH = os.getenv('VJEPA2_HUB_PATH')
-WEIGHTS_PATH = os.getenv('VJEPA2_WEIGHTS')
-PANELS_DIR = Path(os.getenv('PANELS_DIR'))
-EMBEDDINGS_DIR = Path(os.getenv('EMBEDDINGS_DIR'))
+WEIGHTS_PATH    = Path(os.getenv('VJEPA2_WEIGHTS'))
+PANELS_DIR      = Path(os.getenv('PANELS_DIR'))
+EMBEDDINGS_DIR  = Path(os.getenv('EMBEDDINGS_DIR'))
+EMBEDDINGS_DIR.mkdir(parents=True, exist_ok=True)
+
+# VJEPA2_HUB_PATH = os.getenv('VJEPA2_HUB_PATH')
+# WEIGHTS_PATH = os.getenv('VJEPA2_WEIGHTS')
+# PANELS_DIR = Path(os.getenv('PANELS_DIR'))
+# EMBEDDINGS_DIR = Path(os.getenv('EMBEDDINGS_DIR'))
 
 # Register vjepa2 src 
 _vjepa_src          = types.ModuleType('src')

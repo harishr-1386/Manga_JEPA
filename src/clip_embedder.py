@@ -10,10 +10,17 @@ from dotenv import load_dotenv
 import chromadb
 
 load_dotenv()
+_missing = [v for v in ['PANELS_DIR', 'EMBEDDINGS_DIR']
+            if not os.getenv(v)]
+if _missing:
+    raise EnvironmentError(f'Missing env vars: {_missing}. Copy .env.example to .env.')
 
-PANELS_DIR = Path(os.getenv('PANELS_DIR'))
+PANELS_DIR     = Path(os.getenv('PANELS_DIR'))
 EMBEDDINGS_DIR = Path(os.getenv('EMBEDDINGS_DIR'))
-CHROMA_DIR = Path(os.getenv('EMBEDDINGS_DIR')).parent / 'chroma'
+
+# PANELS_DIR = Path(os.getenv('PANELS_DIR'))
+# EMBEDDINGS_DIR = Path(os.getenv('EMBEDDINGS_DIR'))
+# CHROMA_DIR = Path(os.getenv('EMBEDDINGS_DIR')).parent / 'chroma'
 
 model, _, preprocess = open_clip.create_model_and_transforms(
     'ViT-B-32', pretrained='openai'

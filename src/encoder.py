@@ -7,8 +7,18 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+load_dotenv()
+
+_missing = [v for v in ['VJEPA2_HUB_PATH', 'VJEPA2_WEIGHTS']
+            if not os.getenv(v)]
+if _missing:
+    raise EnvironmentError(f'Missing env vars: {_missing}. Copy .env.example to .env.')
+
 VJEPA2_HUB_PATH = os.getenv('VJEPA2_HUB_PATH')
 WEIGHTS_PATH    = os.getenv('VJEPA2_WEIGHTS')
+
+# VJEPA2_HUB_PATH = os.getenv('VJEPA2_HUB_PATH')
+# WEIGHTS_PATH    = os.getenv('VJEPA2_WEIGHTS')
 
 # Register vjepa2's src package in sys.modules BEFORE importing
 # This prevents our own src package from shadowing vjepa2's internal imports

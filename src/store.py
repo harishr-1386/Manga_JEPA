@@ -7,7 +7,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-EMBEDDINGS_DIR = Path(os.getenv('EMBEDDINGS_DIR'))
+
+EMBEDDINGS_DIR_STR = os.getenv('EMBEDDINGS_DIR')
+if not EMBEDDINGS_DIR_STR:
+    raise EnvironmentError(
+        'EMBEDDINGS_DIR not set. Copy .env.example to .env and fill in your paths.\n'
+        'cp .env.example .env'
+    )
+EMBEDDINGS_DIR = Path(EMBEDDINGS_DIR_STR)
 CHROMA_DIR = Path(os.getenv('EMBEDDINGS_DIR')).parent / 'chroma'
 
 
