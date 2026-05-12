@@ -2,7 +2,7 @@
 
 A dual-encoder manga comprehension system using V-JEPA 2 and CLIP for panel retrieval, character identification, and grounded question answering.
 
-Built for DA6401W Deep Learning, IIT Madras.
+
 
 ---
 
